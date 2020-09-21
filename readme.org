@@ -105,8 +105,9 @@ https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
 ** [[https://amzn.to/2zjvbli][Conceptual Mathematics: A First Introduction to Categories]]
 
-* Paulo Aluffi’s Chapter Zero
-[[https://amzn.to/3brrok3][Algebra: Chapter 0]]
+* Paulo Aluffi
+
+** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
 
 ** Tangential Reads
 
@@ -117,8 +118,7 @@ Steven Vickers
 
 * Papers
 
-** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Categories for the Working Mathematician
-Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
+** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Categories for the Working Mathematician Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
 
 * Talks
