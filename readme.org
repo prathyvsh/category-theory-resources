@@ -108,3 +108,8 @@ Steven Vickers
 
 ** [[https://www.youtube.com/watch?v=BLk4DlNZkL8][Adjunctions in Everyday Life]]
 ** [[https://www.youtube.com/watch?v=JMP6gI5mLHc][Category Theory: The Essence of Interface Design]]
+
+* Compilations
+
+** [[https://nodebook.io/nodebook/717/t/x=359.07&y=391.68&k=0.53][Nodebook by Dragan Okanovic]]
+This is a really nice collection of some of the resources laid out in a "graph"ical format by Dragan.
