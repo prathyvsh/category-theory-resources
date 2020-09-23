@@ -14,12 +14,20 @@ So this repository is a curation of the best resources that come across my way a
 
 * Introduction
 
+Category Theory is a field of study that emerged in around 1940s. By that time, the tangled web of inquiries in mathematics had accumulated many ideas from other fields. The inventors used Category Theory as a ground for unifying these different ideas under a common set of abstractions by studying these broad ranging ideas deeply.
+
 #+BEGIN_HTML
 <img align="left" src="./img/samuel-eilenberg.png" />
 <img align="left" src="./img/saunders-maclane.png" />
 #+END_HTML
 
-Category Theory is a domain of study that emerged close to 1940s in Mathematics. By that time, the tangled web of inquiries in mathematics had bore much theoretical studies conducted in the fields it attempted to unify. It was invented by Samuel Eilenberg and Saunders Mac Lane to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of functors between functors (A functor is a category theoretical term that roughly means functions between functions). If you enjoy reading up the history of the subject, I highly recommend this accessible work by Garlandus [[https://garlandus.co/OfGroupsAndMonads.html][describing the emergence of Category Theory]]. Garlandus’ essay holds a high place in my mind, it is the kind of work that gives a sufficient background on the field discussing details of how it took shape as a result of contributions from multiple people. He locates Hilbert’s Göttingen as a central locus that lead to the germination of work on Category Theory.
+It was invented by Samuel Eilenberg and Saunders Mac Lane to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of functors between functors (A functor is a category theoretical term that roughly means functions between functions). If you enjoy reading the history of the subject before diving into it, I highly recommend this accessible work by Garlandus [[https://garlandus.co/OfGroupsAndMonads.html][describing the emergence of Category Theory]].
+
+#+BEGIN_HTML
+<a href="https://garlandus.co/OfGroupsAndMonads.html"><img align="center" src="./img/on-groups-and-monads.png" /></a>
+#+END_HTML
+
+Garlandus’ essay holds a high place in my mind, it is the kind of work that gives a sufficient background on the field discussing details of how it took shape as a result of contributions from multiple people. He locates Hilbert’s Göttingen as a central locus that lead to the germination of work on Category Theory.
 
 Now, the application to Computer Science may seem arbitrary, but this application came after deep investigations into computational structures from around 1960s to today, where multiple links between algebra, automata, computational control/data structures, recursion schemes were uncovered. I am putting together a resource that unravels these links to multiple resources which you can access here.
 
