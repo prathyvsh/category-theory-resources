@@ -2,13 +2,15 @@
 
 [[./img/category-theory-cover.png]]
 
-This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory. I have only recently gotten into understanding Category Theory and as a result this list could only be a partial sampling of the great wealth of materials out there. Please send a [[https://twitter.com/prathyvsh][tweet]], if you think I have missed out some great work here.
+This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory. I have only recently gotten into learning Category Theory and as a result this list is only a partial sampling of the great wealth of materials out there. Please send a [[https://twitter.com/prathyvsh][tweet]], if you think I have missed out some great work in the field in this repo.
 
-Category Theory is considered by many to be an involved domain of study to get into. And the way it approaches problems is from a very abstract vantage point.
+Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas and operations from varied domains. And the way it achieves this is by taking an abstract vantage point.
 
-This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful in that it gives it the freedom to unite very different fields of study such as say topology and computation, but at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study hard to point out without setting up a framework to talk about them.
+This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful in that it gives it the freedom to unite very different fields of study such as say topology and computation, but at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study, hard to elucidate without first learning enough terminology and understanding to set up a framework for discourse.
 
-Ultimately, as Christopher Strachey put it, the divide between theory and practice is unproductive. Both needs to be put together in a symbiotic circle to make each other a fertile field of knowledge and action. Category Theory seen this way is a subject whose keen study will payoff in the form of better decision-making in your day-to-day jobs. To articulate this exactly is something a bit elusive to me at the moment as I’m at the same time a learner and only trying to come in terms with the deep implications Category Theory has on my work. So this repository is a curation of the best resources that comes across my way and those that helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
+Ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both to be put together in a symbiotic circle to make each other a fertile field of knowledge and action. Category Theory seen this way is a subject whose keen study will payoff in the form of better decision-making in your day-to-day jobs. To articulate this exactly is something a bit elusive to me at the moment as I’m at the same time a learner, only trying to come in terms with the deep implications Category Theory has on my work.
+
+So this repository is a curation of the best resources that come across my way and that has helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
 
 * Introduction
 
