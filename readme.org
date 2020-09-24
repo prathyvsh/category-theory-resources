@@ -48,11 +48,8 @@ Because of the standing of Category Theory as a general domain of inquiry, I hav
 So I proceed to recommend some resource that might help you develop some functional programming knowledge before you come around to Category Theory.
 
 #+BEGIN_HTML
-<img align="left" height="300px" src="./img/htdp-cover.gif" />
-#+END_HTML
-
-#+BEGIN_HTML
 <div>
+<img align="left" height="300px" src="./img/htdp-cover.gif" />
 #+END_HTML
 
 ** [[https://htdp.org][How to Design Programs (First Edition)]]
@@ -61,11 +58,7 @@ How to Design Programs is an accessible introduction to functional programming. 
 
 #+BEGIN_HTML
 </div>
-
 <div>
-#+END_HTML
-
-#+BEGIN_HTML
 <img align="left" height="300px" src="./img/intro-to-fp-cover.jpg" />  
 #+END_HTML
 
@@ -77,9 +70,6 @@ Introduction to Functional Programming by Richard Bird and Philipp Wadler is a m
 </div>
 
 <div>
-#+END_HTML
-
-#+BEGIN_HTML
 <img align="left" height="300px" src="./img/sicp-cover.jpg" />
 #+END_HTML
 
