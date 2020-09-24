@@ -69,7 +69,7 @@ Introduction to Functional Programming by Richard Bird and Philipp Wadler is a m
 
 #+BEGIN_HTML
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <div>
 <img align="left" height="300px" src="./img/sicp-cover.jpg" />
 #+END_HTML
