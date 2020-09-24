@@ -61,9 +61,7 @@ How to Design Programs is an accessible introduction to functional programming. 
 
 #+BEGIN_HTML
 </div>
-#+END_HTML
 
-#+BEGIN_HTML
 <div>
 #+END_HTML
 
@@ -75,10 +73,9 @@ How to Design Programs is an accessible introduction to functional programming. 
 
 Introduction to Functional Programming by Richard Bird and Philipp Wadler is a more formal treatment of functional programming. They use the language Miranda to elucidate the concepts.
 
-
-
-
 #+BEGIN_HTML
+</div>
+
 <div>
 #+END_HTML
 
