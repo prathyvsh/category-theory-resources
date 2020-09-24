@@ -4,11 +4,21 @@
 
 This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory. I have only recently gotten into learning Category Theory and as a result this list is only a partial sampling of the great wealth of materials out there. Please send a [[https://twitter.com/prathyvsh][tweet]], if you think I have missed out some great work in the field in this repo.
 
+* Why learn Category Theory?
+
 Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas and operations from varied domains. And the way it achieves this is by taking an abstract vantage point.
 
 This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful in that it gives it the freedom to unite very different fields of study such as say topology and computation, but at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study, hard to elucidate without first learning enough terminology and understanding to set up a framework for discourse.
 
 Ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both to be put together in a symbiotic circle to make each other a fertile field of knowledge and action. Category Theory seen this way is a subject whose keen study will payoff in the form of better decision-making in your day-to-day jobs. To articulate this exactly is something a bit elusive to me at the moment as I’m at the same time a learner, only trying to come in terms with the deep implications Category Theory has on my work.
+
+#+BEGIN_HTML
+<img align="left" src="./img/rosetta-stone.png" />
+#+END_HTML
+
+Category theory in certain communities of practice has moved towards being the heart of capturing the correspondences across different systems. One of the papers that catalogues the gems from taking this vantage point is the [[https://math.ucr.edu/home/baez/rosetta.pdf][Rosetta Stone paper]] by John Carlos Baez and Mike Stay.
+
+In this paper they detail how disparate domains like physics, topology, logic, and computation show strong parallels between their concepts. As can be seen in the diagram, they point out the parallels between these domains of study. Seen this way, Category Theory gives a language and a setting to talk about working concepts in different domains of inquiries and unifies them using higher level abstractions.
 
 So this repository is a curation of the best resources that come across my way and that has helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
 
