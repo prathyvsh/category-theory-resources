@@ -81,6 +81,9 @@ Once this is done, I’ll recommend starting with Category Theory texts. These w
 
 ** Book [[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
 
+* Tom Leinster
+** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
+
 ** Videos
 
 *** [[https://www.youtube.com/watch?v=cJ46AOEOc14][David Spivak’s intro into Category Theory]]
@@ -127,6 +130,9 @@ Steven Vickers
 
 ** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Categories for the Working Mathematician Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
+
+** [[https://www.cs.ox.ac.uk/files/3395/PRG72.pdf][A Categorical Manifesto]]
+Goguen
 
 * Talks
 
