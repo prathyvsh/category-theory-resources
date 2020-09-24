@@ -47,11 +47,23 @@ Because of the standing of Category Theory as a general domain of inquiry, I hav
 
 So I proceed to recommend some resource that might help you develop some functional programming knowledge before you come around to Category Theory.
 
+#+BEGIN_HTML
+<img align="left" src="./img/htdp-cover.gif" />
+#+END_HTML
+
 ** [[https://htdp.org][How to Design Programs (First Edition)]]
+
+#+BEGIN_HTML
+<img align="left" src="./img/intro-to-fp-cover.jpg" />
+#+END_HTML
 
 ** Introduction to Functional Programming
 
-** SICP
+#+BEGIN_HTML
+<img align="left" src="./img/sicp-cover.jpg" />
+#+END_HTML
+
+** Structure and Interpretation of Computer Programs
 
 Choose one or all books there will give you a solid footing in functional programming. With that knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a well-rounded knowledge of the field would help you.
 
