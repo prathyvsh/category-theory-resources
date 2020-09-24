@@ -48,7 +48,11 @@ Because of the standing of Category Theory as a general domain of inquiry, I hav
 So I proceed to recommend some resource that might help you develop some functional programming knowledge before you come around to Category Theory.
 
 #+BEGIN_HTML
-<img align="left" src="./img/htdp-cover.gif" />
+<img align="left" height="300px" src="./img/htdp-cover.gif" />
+#+END_HTML
+
+#+BEGIN_HTML
+<div>
 #+END_HTML
 
 ** [[https://htdp.org][How to Design Programs (First Edition)]]
@@ -56,22 +60,39 @@ So I proceed to recommend some resource that might help you develop some functio
 How to Design Programs is an accessible introduction to functional programming. The book is thorough in its coverage of essential ideas and slowly walks a novice through exercises to understand the concepts and how to put them to use in practical problems that one may encounter in their daily practice.
 
 #+BEGIN_HTML
-<img align="left" src="./img/intro-to-fp-cover.jpg" />  
-<br />
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div>
+#+END_HTML
+
+#+BEGIN_HTML
+<img align="left" height="300px" src="./img/intro-to-fp-cover.jpg" />  
 #+END_HTML
 
 ** Introduction to Functional Programming
 
 Introduction to Functional Programming by Richard Bird and Philipp Wadler is a more formal treatment of functional programming. They use the language Miranda to elucidate the concepts.
 
+
+
+
 #+BEGIN_HTML
-<img align="left" src="./img/sicp-cover.jpg" />
-<br />
+<div>
+#+END_HTML
+
+#+BEGIN_HTML
+<img align="left" height="300px" src="./img/sicp-cover.jpg" />
 #+END_HTML
 
 ** Structure and Interpretation of Computer Programs
 
-SICP by Abelson and Sussman is considered a classic text that provides a synthesis of great ideas of computer science using LISP. It is a natural second choice once you have mastered the ideas in HtDP.  
+SICP by Abelson and Sussman is considered a classic text that provides a synthesis of great ideas of computer science using LISP. It is a natural second choice once you have mastered the ideas in HtDP.
+
+#+BEGIN_HTML
+</div>
+#+END_HTML
 
 Choose one or all books there will give you a solid footing in functional programming. With that knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a well-rounded knowledge of the field would help you.
 
