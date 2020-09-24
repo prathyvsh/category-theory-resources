@@ -6,9 +6,9 @@ This is a curation of introductory materials aimed at an enthusiast who wants to
 
 * Why learn Category Theory?
 
-Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas and operations from varied domains. And the way it achieves this is by taking an abstract vantage point.
+Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas from a wide variety of domains. And the way it achieves this is by taking an abstract vantage point on the ideas, their properties, and processes in these disciplines.
 
-This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful in that it gives it the freedom to unite very different fields of study such as say topology and computation, but at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study, hard to elucidate without first learning enough terminology and understanding to set up a framework for discourse.
+This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful by giving it the generality to unite very different fields of study such as say topology and computation. But at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study. It makes it hard to elucidate these without first learning enough terminology and understanding to set up a framework for discourse for the discipline under the study.
 
 #+BEGIN_HTML
 <img align="center" src="./img/rosetta-stone.png" />
