@@ -56,17 +56,17 @@ So I proceed to recommend some resource that might help you develop some functio
 How to Design Programs is an accessible introduction to functional programming. The book is thorough in its coverage of essential ideas and slowly walks a novice through exercises to understand the concepts and how to put them to use in practical problems that one may encounter in their daily practice.
 
 #+BEGIN_HTML
-<br/>
-<img align="left" src="./img/intro-to-fp-cover.jpg" />
+<img align="left" src="./img/intro-to-fp-cover.jpg" />  
+<br />
 #+END_HTML
 
 ** Introduction to Functional Programming
 
-Introduction to Functional Programming by Richard Bird and Philipp Wadler is a more formal treatment of functional programming. They use the language Miranda to elucidate the concepts.  
+Introduction to Functional Programming by Richard Bird and Philipp Wadler is a more formal treatment of functional programming. They use the language Miranda to elucidate the concepts.
 
 #+BEGIN_HTML
-<br/>
 <img align="left" src="./img/sicp-cover.jpg" />
+<br />
 #+END_HTML
 
 ** Structure and Interpretation of Computer Programs
