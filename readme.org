@@ -33,33 +33,39 @@ Now that we have seen how Category Theory came around, let us look at the resour
 
 * Overview
 
-Because of the standing of Category Theory as a general domain of inquiry, I feel it better to first get a cursory knowledge in functional programming and abstract algebra before tackling the subject. These paradigms are the closest ones to the work done in Category Theory and if you come around to Category Theory from say an imperative programming setting, I feel it might be a bit hard to relate to why such machinery is needed.
+Because of the standing of Category Theory as a general domain of inquiry, I have constantly felt it better to first get a cursory knowledge in functional programming and abstract algebra before tackling the subject. These paradigms are closer to the work done in Category Theory and if you come around to Category Theory without having some concrete experience in some problems where you can map the ideas you learn here, I feel it might be a bit hard to connect with this domain of study and intuition into to why such machinery is needed.
 
-So I recommend you develop some amount of functional programming knowledge before you come around to Category Theory.
+So I proceed to recommend some resource that might help you develop some functional programming knowledge before you come around to Category Theory.
 
-Towards this purpose I recommend some of these books:
+** [[https://htdp.org][How to Design Programs (First Edition)]]
 
-HtDP
-Introduction to Functional Programming
-SICP
+** Introduction to Functional Programming
 
-Once you have enough functional programming knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge while not necessary, would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a  well-rounded knowledge of the field would help you.
+** SICP
 
-To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of the field where he captures the ideas of mathematics in a comprehensive way. This book doubles out as an atlas of mathematical inquiry as there are multiple schemas in this book that give you a map on how to navigate the whole field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many.
+Choose one or all books there will give you a solid footing in functional programming. With that knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a well-rounded knowledge of the field would help you.
 
-Category Theory is the study of structures and for this purpose, I find it most important to have an overview of the field in a visual manner. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. To start seeing how the pieces fit together one has to recourse to abstract diagrams and try to connect the concepts with how the same concepts model things in topology. To aid in this, let me draw your attention to this incomplete though beautiful work by Boris Marinov: https://boris-marinov.github.io/category-theory-illustrated/
+To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of the field where he captures the ideas of mathematics in a comprehensive way. This book doubles out as an atlas of mathematical inquiry as there are multiple schemas in this book that give you a map on how to navigate the whole field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many. Mastery of all these fields is not a pre-requisite to be proficient in it. But just pointing out the fact that the masters of the subject have done great explorations of the field to bring forth the fruits of Category Theory.
 
-Now with focus to computation, the best way to develop an expertise I feel is to learn abstract algebra which undergirds the algebraic species that are often talked about in Category Theory. To make sense of them, let me mention few books. It is not mandatory reading if you want to dive first into Category Theory, in fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge.
+Category Theory is the study of structures and for this purpose, I find it most important to have an overview of the field in a visual manner. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. To start seeing how the pieces fit together one has to recourse to abstract diagrams and try to connect the concepts with how the same concepts model things in a more visual domain, say topology. One resource that I have aided me in this is Boris Marinov’s guide. Let me draw your attention to this incomplete but beautiful work by Boris Marinov: https://boris-marinov.github.io/category-theory-illustrated/
 
-1/ A Book of Abstract Algebra by Pinter
+Now with focus to computation, the route I have taken is to learn abstract algebra which undergirds the algebraic species that are often talked about in Category Theory. To make sense of them, let me mention a few books. It is not mandatory reading, if you want to dive first into Category Theory, in fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge but Abstract algebra is the one that I have felt is most proximate and has helped me create a ground for mapping back the ideas I learn from Category Theory.
+
+1/ A Book of Abstract Algebra by Charles Pinter
+
+This book by Charles Pinter reads not like a textbook but like a description of the field.
 
 2/ A Concrete Approach to Abstract Algebra by W. W. Sawyer
 
+A narrative approach for Abstract Algebra is given by Sawyer by focussing on concrete applications.
+
 3/ Visual Group Theory by Nathan Carter
 
-I will try to expand on these books once I have better perspective, but these three seem to be the most promising to get a good overview of the algebraic structures.
+Visual Group Theory by Nathan Carter gives an overview of the field by relying on visualizations. His playground for the cayley diagram explorations gives a good idea of the quality of work that has gone into producing this book.
 
-Once this is done, I’ll recommend the following works to get through to understand the field deeper.
+I will try to expand on this catalogue once I have better perspective, but these three seem to be the most promising to get a good overview of the algebraic structures.
+
+Once this is done, I’ll recommend starting with Category Theory texts. These works helps an enthusiast to get through the field to understand it deeper.
 
 * David I. Spivak and Brendan Fong
 
