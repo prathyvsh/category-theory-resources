@@ -86,19 +86,19 @@ SICP by Abelson and Sussman is considered a classic text that provides a synthes
 Reading some or all of the books here will give you a solid footing in functional programming. With that knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a well-rounded knowledge of the field would help you to ease into fields which might be remote from your experience, but would nevertheless hold the gold so to speak.
 
 #+BEGIN_HTML
-<img align="left" src="./img/mathematics-form-and-function-cover.jpg" />  
+<img align="left" height="300px" src="./img/mathematics-form-and-function.jpg" />  
 #+END_HTML
 
 To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of Category Theory, where he gives a tour of ideas of mathematics in a comprehensive way.
 
 #+BEGIN_HTML
-<img align="left" src="./img/mathematics-form-and-function-atlas.jpg" />  
+<img align="left" src="./img/mathematics-form-and-function-map.jpg" />  
 #+END_HTML
 
 This book doubles out as an atlas of mathematical inquiry as there are multiple maps in this book that give you an idea on how to navigate the field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many. Mastery of all these fields is not a pre-requisite to be proficient in it. But just pointing out the fact that the masters of the subject have done great explorations of the field to bring forth the fruits of Category Theory.
 
 #+BEGIN_HTML
-<img align="left" src="./img/modular-lattice.gif" />  
+<img align="left" src="./img/modular-lattice-mckeown.gif" />  
 #+END_HTML
 
 Category Theory is the study of structures and for this purpose, I find it most important to have an overview of the field in a visual manner. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. What is picture here is an animation by James McKeown of a modular lattice rotating on its vertical axis. These sort of algebraic structures are a part of what we study with Category Theory. And I think there is a certain truth to the idea that geometry is the missing link to ground the abstract ideas that is being studied under Category Theory.
