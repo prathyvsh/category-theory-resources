@@ -116,7 +116,7 @@ Now an adjacent field to Category Theory is Abstract Algebra. The route I have t
 
 
 #+BEGIN_HTML
-<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <img align="left" height="300px" src="./img/a-book-of-abstract-algebra.jpg" />  
 #+END_HTML
 
@@ -126,7 +126,7 @@ Now an adjacent field to Category Theory is Abstract Algebra. The route I have t
 This book by Charles Pinter reads not like a textbook but like a description of the field.
 
 #+BEGIN_HTML
-<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <img align="left" height="300px" src="./img/a-concrete-approach-to-abstract-algebra.png" />  
 #+END_HTML
 
@@ -136,7 +136,7 @@ This book by Charles Pinter reads not like a textbook but like a description of 
 A narrative approach for Abstract Algebra is given by Sawyer by focussing on concrete applications.
 
 #+BEGIN_HTML
-<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <img align="left" height="300px" src="./img/visual-group-theory.jpg" />  
 #+END_HTML
 
@@ -144,6 +144,10 @@ A narrative approach for Abstract Algebra is given by Sawyer by focussing on con
 *Nathan Carter*
 
 Visual Group Theory by Nathan Carter gives an overview of the field by relying on visualizations. His playground for the cayley diagram explorations gives a good idea of the quality of work that has gone into producing this book.
+
+#+BEGIN_HTML
+<br />
+#+END_HTML
 
 I will try to expand on this catalogue once I have better perspective, but these three seem to be the most promising to get a good overview of the algebraic structures.
 
