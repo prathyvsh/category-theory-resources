@@ -146,7 +146,7 @@ A narrative approach for Abstract Algebra is given by Sawyer by focussing on con
 Visual Group Theory by Nathan Carter gives an overview of the field by relying on visualizations. His playground for the cayley diagram explorations gives a good idea of the quality of work that has gone into producing this book.
 
 #+BEGIN_HTML
-<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 #+END_HTML
 
 I will try to expand on this catalogue once I have better perspective, but these three seem to be the most promising to get a good overview of the algebraic structures.
