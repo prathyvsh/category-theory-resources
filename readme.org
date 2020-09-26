@@ -6,19 +6,19 @@ This is a curation of introductory materials aimed at an enthusiast who wants to
 
 * Why learn Category Theory?
 
-Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas from a wide variety of domains. And the way it achieves this is by taking an abstract vantage point on the ideas, their properties, and processes in these disciplines.
+Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas for a wide variety of domains. And the way it achieves this is by taking an abstract vantage point on the ideas, their properties, and processes in these disciplines.
 
-This abstract viewpoint is both the strength and weakness of the approach. The abstract nature of the subject makes it very powerful by giving it the generality to unite very different fields of study such as say topology and computation. But at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study. It makes it hard to elucidate these without first learning enough terminology and understanding to set up a framework for discourse for the discipline under the study.
+This abstract viewpoint is *both a strength and weakness* of the approach. The abstract nature of the subject makes it very powerful by giving it the generality to unite very different fields of study such as say topology and computation. But at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study. It makes it hard to elucidate these without first learning enough terminology and understanding to set up a framework for discourse for the discipline under the study.
 
 #+BEGIN_HTML
-<img align="center" src="./img/rosetta-stone.png" />
+<a href="https://math.ucr.edu/home/baez/rosetta.pdf"><img align="center" src="./img/rosetta-stone.png" /></a>
 #+END_HTML
 
-Category theory in certain communities of practice has moved towards being the heart of capturing the correspondences across different systems. One of the papers that catalogues the gems from taking this vantage point is the [[https://math.ucr.edu/home/baez/rosetta.pdf][Rosetta Stone paper]] by John Carlos Baez and Mike Stay.
+Category theory in certain communities of practice has moved towards being the heart of capturing the correspondences across different systems. One of the great papers that catalogues the gems from taking this vantage point is the [[https://math.ucr.edu/home/baez/rosetta.pdf][*Rosetta Stone paper*]] by John Carlos Baez and Mike Stay.
 
-In this paper they detail how disparate domains like physics, topology, logic, and computation show strong parallels between their concepts. As can be seen in the diagram, they point out the parallels between these domains of study. Seen this way, Category Theory gives a language and a setting to talk about working concepts in different domains of inquiries and unifies them using higher level abstractions.
+In this paper they detail how disparate domains like physics, topology, logic, and computation show strong parallels between their concepts when seen from the Category Theory viewpoint. As can be seen in the table, they point out the parallels between concepts among different domains of inquiry. Seen this way, Category Theory gives a language and a setting to talk about working concepts in different domains of inquiries and unifies them using higher level abstractions.
 
-Ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both to be put together in a symbiotic circle to make each other a fertile field of knowledge and action. Category Theory in this manner is a subject whose keen study will payoff in the form of better decision-making in your day-to-day jobs. To articulate exactly how this is something a bit elusive to me at the moment, I am only seeing glimpses of how the concepts give me a way to talk about ideas happening in my daily programming. As I’m a learner only trying to come in terms with the deep implications Category Theory has on my work, I will need some more time to reframe this section to articulate the benefits of Category Theory in the long term.
+Ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both needs to be put together in a symbiotic circle to *make each other a fertile field of knowledge and action*. Category Theory in this manner is said to be a subject whose keen study will payoff in the form of better decision-making in your day-to-day job over the long term. To articulate exactly how this is something a bit elusive to me at the moment, I am only seeing glimpses of how the concepts give me a way to talk about ideas happening in my daily programming. As I’m a learner only trying to come in terms with the deep implications Category Theory has on my work, I will need some more time to reframe this section to articulate the benefits of Category Theory in the long term.
 
 So this repository is a curation of the best resources that come across my way and that has helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
 
@@ -29,14 +29,14 @@ So this repository is a curation of the best resources that come across my way a
 <img align="left" src="./img/saunders-maclane.png" />
 #+END_HTML
 
-Category Theory is a field of study that emerged in around 1940s. By that time, the tangled web of inquiries in mathematics had accumulated many ideas from other fields. The inventors used Category Theory as a ground for unifying these different ideas under a common set of abstractions by studying these broad ranging ideas deeply. It was invented by Samuel Eilenberg and Saunders Mac Lane to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of functors between functors (A functor is a category theoretical term that roughly means functions between functions).
+Category Theory is a field of study that emerged around 1940s. By that time, the tangled web of inquiries in mathematics had accumulated many ideas from other fields. The inventors used Category Theory as a ground for unifying these different ideas under a common set of abstractions by studying these broad ranging ideas deeply. It was invented by *Samuel Eilenberg* and *Saunders Mac Lane* to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of naturality occuring on functors between functors (A functor is a category theoretical term that roughly means functions and the idea of naturality can very roughly be compared to the idea of talking about a concept without a given frame of reference).
 
 #+BEGIN_HTML
 <br />
 <a href="https://garlandus.co/OfGroupsAndMonads.html"><img align="left" src="./img/on-groups-and-monads.png" /></a>
 #+END_HTML
 
-If you enjoy reading the history of the subject before diving into it, I highly recommend this accessible work by Garlandus [[https://garlandus.co/OfGroupsAndMonads.html][describing the emergence of Category Theory]]. Garlandus’ essay holds a high place in my mind, it is the kind of work that gives a sufficient background on the field discussing details of how it took shape as a result of contributions from multiple people. He locates Hilbert’s Göttingen as a central locus that lead to the germination of work on Category Theory.
+If you enjoy reading the history of the subject before diving into it, I highly recommend this accessible work by Garlandus [[https://garlandus.co/OfGroupsAndMonads.html][describing the emergence of Category Theory]]. Garlandus’ essay holds a high place in my mind, it is the kind of work that gives a sufficient background on the field discussing details of how it took shape as a result of contributions between multiple people. He locates *Hilbert’s Göttingen* as a central locus that lead to the germination of work on Category Theory.
 
 
 #+BEGIN_HTML
@@ -103,7 +103,7 @@ Reading some or all of the books here will give you a solid footing in functiona
 
 ** Mathematics Form and Function
 
-To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of Category Theory, where he gives a tour of ideas of mathematics in a comprehensive way. This book doubles out as an atlas of mathematical inquiry as there are multiple maps in this book that give you an idea on how to navigate the field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many. Mastery of all these fields is not a pre-requisite to be proficient in it. But just pointing out the fact that the masters of the subject have done great explorations of the field to bring forth the fruits of Category Theory.
+To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of Category Theory, where he gives a tour of ideas of mathematics in a comprehensive way. This book doubles out as an atlas of mathematical inquiry as there are multiple maps in this book that give you an idea on how to navigate the field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many. Mastery of all these fields is not a pre-requisite to be proficient in it. But it has to be pointed out that the masters of the subject have done a great deal of exploration to bring forth the fruits of Category Theory.
 
 #+BEGIN_HTML
 <img align="center" width="400px" src="./img/mathematics-form-and-function-map.jpg" />  
@@ -111,7 +111,7 @@ To make this case, let me first mention this book by Saunders Mac Lane, the co-i
 
 * Introduction through Abstract Algebra
 
-Now with focus to computation, the route I have taken is to learn abstract algebra which undergirds the algebraic species that are often talked about in Category Theory. To make sense of them, let me mention a few books. It is not mandatory reading, if you want to dive first into Category Theory, in fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge but Abstract algebra is the one that I have felt is most proximate and has helped me create a ground for mapping back the ideas I learn from Category Theory.
+Now an adjacent field to Category Theory is Abstract Algebra. The route I have taken is to first learn abstract algebra which undergirds the algebraic species that are often subjects of study in Category Theory. To make sense of these, let me mention a few books. It is not mandatory reading, if you want to dive first into Category Theory. In fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge but abstract algebra is a field that I have felt is most proximate and has aided me ease into Category Theory texts.
 
 1/ A Book of Abstract Algebra by Charles Pinter
 
