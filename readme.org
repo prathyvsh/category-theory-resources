@@ -116,7 +116,7 @@ Now an adjacent field to Category Theory is Abstract Algebra. The route I have t
 
 
 #+BEGIN_HTML
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br />
 <img align="left" height="300px" src="./img/a-book-of-abstract-algebra.jpg" />  
 #+END_HTML
 
