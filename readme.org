@@ -161,6 +161,13 @@ Once the above works are studied, starting with Category Theory texts should be 
 
 Category Theory is the study of objects and morphisms and for this purpose, I find it most important to have a visual setting for exploring these ideas. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. What is pictured here is an animation by James McKeown of a modular lattice rotating on its vertical axis. These sort of algebraic structures are a part of what we study with Category Theory. And I think there is a certain truth to the idea that geometry is the missing link to ground the abstract ideas that is being studied under Category Theory.
 
+#+BEGIN_HTML
+<br />
+<br />
+<br />
+<br />
+#+END_HTML
+
 * Jamie Vicary’s work
 
 I came across this talk by Jamie Vicary on building tools for exploring Category Theory. His works [[https://globular.science][Globular.science]] and [[https://homotopy.io][Homotopy.io]] are (awe)inspiring. Do check out his talk titled *Category Theory: Visual Mathematics for the 21st Century* and his works to see how he connects proofs, programs, and geometry together in a triad!
