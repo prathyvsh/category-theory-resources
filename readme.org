@@ -196,45 +196,48 @@ Now when studying category theory, to start seeing how the pieces fit together o
 ** [[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
 David I. Spivak and Brendan Fong
 
-** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
-Tom Leinster
-
-* [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
-Saunders Mac Lane
-
-* [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
-* Benjamin Pierce
-
-* [[https://amzn.to/2yARvpW][Category Theory in Context]]
-Emily Riehl
-
-Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
-
-** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
-* Bartosz Milewski
-
-* [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
-David I. Spivak
-
-* [[https://amzn.to/2HAe42N][Category Theory]]
-Steve Awodey
-
-* [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
-Harold Simmons
+** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
+Paulo Aluffi
 
 ** [[https://amzn.to/2zjvbli][Conceptual Mathematics: A First Introduction to Categories]]
 William Lawvere and Stephen Schaneul
 
-** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
-Paulo Aluffi
+** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
+Tom Leinster
+
+** [[https://amzn.to/2HAe42N][Category Theory]]
+Steve Awodey
+
+** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
+David I. Spivak
+
+** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
+Bartosz Milewski
 
 ** [[http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf][Categories for the Working Physicist]]
 Bob Coecke and Eric Oliver Paquette
 
+** [[https://amzn.to/2yARvpW][Category Theory in Context]]
+Emily Riehl
+
+Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
+
+** [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
+Harold Simmons
+
 ** Computational Category Theory
 Rydehead and Burstall
 
+Available free here: 
+http://www.cs.man.ac.uk/~david/categories/
+
+** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
+Benjamin Pierce
+
 ** [[https://projecteuclid.org/euclid.bia/1403013939][Topic: The Categorical Analysis of Logic]]
+
+** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
+Saunders Mac Lane
 
 ** Adjacent Reads
 
@@ -243,7 +246,7 @@ Now these are works a bit removed from Category Theory, but still I feel will gi
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
 Steven Vickers
 
-** Diagrammatic Immanence
+** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
 
 * Papers and Presentations
 
