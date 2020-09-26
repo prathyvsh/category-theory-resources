@@ -40,6 +40,7 @@ If you enjoy reading the history of the subject before diving into it, I highly 
 
 
 #+BEGIN_HTML
+<br />
 <img align="left" src="./img/samuel-eilenberg.png" />
 <img align="left" src="./img/eilenberg-automata.png" />
 #+END_HTML
@@ -95,6 +96,7 @@ Reading some or all of the books here will give you a solid footing in functiona
 ------
 
 #+BEGIN_HTML
+<img align="left" src="./img/saunders-maclane.jpg" />  
 <img align="left" height="300px" src="./img/mathematics-form-and-function.jpg" />  
 #+END_HTML
 
@@ -108,16 +110,7 @@ To make this case, let me first mention this book by Saunders Mac Lane, the co-i
 <img align="center" width="400px" src="./img/mathematics-form-and-function-map.jpg" />  
 #+END_HTML
 
-* Visual Nature of Category Theory
-
-#+BEGIN_HTML
-<img align="left" src="./img/modular-lattice-mckeown.gif" />  
-#+END_HTML
-
-Category Theory is the study of structures and for this purpose, I find it most important to have an overview of the field in a visual manner. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. What is picture here is an animation by James McKeown of a modular lattice rotating on its vertical axis. These sort of algebraic structures are a part of what we study with Category Theory. And I think there is a certain truth to the idea that geometry is the missing link to ground the abstract ideas that is being studied under Category Theory.
-
-
-To start seeing how the pieces fit together one has to recourse to abstract diagrams and try to connect the concepts with how the same concepts model things in a more visual domain, say topology. One resource that I have aided me in this is Boris Marinov’s guide. Let me draw your attention to this incomplete but beautiful work by Boris Marinov: https://boris-marinov.github.io/category-theory-illustrated/
+* Introduction through Abstract Algebra
 
 Now with focus to computation, the route I have taken is to learn abstract algebra which undergirds the algebraic species that are often talked about in Category Theory. To make sense of them, let me mention a few books. It is not mandatory reading, if you want to dive first into Category Theory, in fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge but Abstract algebra is the one that I have felt is most proximate and has helped me create a ground for mapping back the ideas I learn from Category Theory.
 
@@ -136,6 +129,28 @@ Visual Group Theory by Nathan Carter gives an overview of the field by relying o
 I will try to expand on this catalogue once I have better perspective, but these three seem to be the most promising to get a good overview of the algebraic structures.
 
 Once this is done, I’ll recommend starting with Category Theory texts. These works helps an enthusiast to get through the field to understand it deeper.
+
+* Visual Nature of Category Theory
+
+#+BEGIN_HTML
+<img align="left" src="./img/modular-lattice-mckeown.gif" />  
+#+END_HTML
+
+Category Theory is the study of objects and morphisms and for this purpose, I find it most important to have a visual setting for exploring these ideas. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. What is pictured here is an animation by James McKeown of a modular lattice rotating on its vertical axis. These sort of algebraic structures are a part of what we study with Category Theory. And I think there is a certain truth to the idea that geometry is the missing link to ground the abstract ideas that is being studied under Category Theory.
+
+I came across this talk by Jamie Vicary on building tools for exploring Category Theory. His works [[https://globular.science][Globular.science]] and [[https://homotopy.io][Homotopy.io]] are (awe)inspiring. Do check out his talk titled **Category Theory: Visual Mathematics for the 21st Century** and his works to see how he connects proofs, programs, and geometry together in a triad!
+
+#+BEGIN_HTML
+<a href="https://www.youtube.com/watch?v=HdZk92s7z1U"><img src="./img/jamie-vicary-talk.jpg" /></a>
+<a href="https://homotopy.io"><img src="./img/homotopy-io.jpg" /></a>
+<a href="https://homotopy.io"><img src="./img/globular-science.png" /></a>
+#+END_HTML
+
+Now when studying category theory, to start seeing how the pieces fit together one has to recourse to abstract diagrams and attempt to connect these concepts with how the same concepts model things in a more visual domain, say topology. This recourse is my best bet at the moment to gain the geometric intuitions in Category Theory when learning. If you find geometric intuitions helpful in understanding mathematics, let me draw your attention to this incomplete but [[https://boris-marinov.github.io/category-theory-illustrated/][beautiful work]] by Boris Marinov.
+
+#+BEGIN_HTML
+<a href="https://boris-marinov.github.io/category-theory-illustrated/"><img src="./img/boris-category-theory-illustrated.png" /></a>
+#+END_HTML
 
 * David I. Spivak and Brendan Fong
 
