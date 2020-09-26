@@ -96,13 +96,13 @@ Reading some or all of the books here will give you a solid footing in functiona
 
 * Breadth and Depth
 
-** Mathematics Form and Function
-
 #+BEGIN_HTML
 <br />
 <img align="left" src="./img/saunders-maclane.png" />  
 <img align="left" height="300px" src="./img/mathematics-form-and-function.jpg" />  
 #+END_HTML
+
+** Mathematics Form and Function
 
 To make this case, let me first mention this book by Saunders Mac Lane, the co-inventor of Category Theory, where he gives a tour of ideas of mathematics in a comprehensive way. This book doubles out as an atlas of mathematical inquiry as there are multiple maps in this book that give you an idea on how to navigate the field. Such is the kind of breadth and depth that has gone into building Category Theory. I don’t mean this as something to intimidate the reader, but just to provide the awareness that the field is vast and finds application in many areas, computation being one among many. Mastery of all these fields is not a pre-requisite to be proficient in it. But it has to be pointed out that the masters of the subject have done a great deal of exploration to bring forth the fruits of Category Theory.
 
