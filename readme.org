@@ -116,7 +116,8 @@ Now an adjacent field to Category Theory is Abstract Algebra. The route I have t
 
 
 #+BEGIN_HTML
-<img height="300px" src="./img/a-book-of-abstract-algebra.jpg" />  
+<br />
+<img align="left" height="300px" src="./img/a-book-of-abstract-algebra.jpg" />  
 #+END_HTML
 
 ** [[https://amzn.to/2S3SOVc][A Book of Abstract Algebra]]
@@ -125,7 +126,8 @@ Now an adjacent field to Category Theory is Abstract Algebra. The route I have t
 This book by Charles Pinter reads not like a textbook but like a description of the field.
 
 #+BEGIN_HTML
-<img height="300px" src="./img/a-concrete-approach-to-abstract-algebra.png" />  
+<br />
+<img align="left" height="300px" src="./img/a-concrete-approach-to-abstract-algebra.png" />  
 #+END_HTML
 
 ** [[https://archive.org/details/AConcreteApproachToAbstractAlgebra][A Concrete Approach to Abstract Algebra]]
@@ -134,7 +136,8 @@ This book by Charles Pinter reads not like a textbook but like a description of 
 A narrative approach for Abstract Algebra is given by Sawyer by focussing on concrete applications.
 
 #+BEGIN_HTML
-<img height="300px" src="./img/visual-group-theory.jpg" />  
+<br />
+<img align="left" height="300px" src="./img/visual-group-theory.jpg" />  
 #+END_HTML
 
 ** Visual Group Theory
