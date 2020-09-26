@@ -93,10 +93,9 @@ SICP by Abelson and Sussman is considered a classic text that provides a synthes
 
 Reading some or all of the books here will give you a solid footing in functional programming. With that knowledge under your belt, next step is to develop sufficient understanding of the field of mathematics. This knowledge would make the transition into CT much more smooth as there are deep links within CT that lead you onto very different domains and having a well-rounded knowledge of the field would help you to ease into fields which might be remote from your experience, but would nevertheless hold the gold, so to speak.
 
-------
-
 #+BEGIN_HTML
-<img align="left" src="./img/saunders-maclane.jpg" />  
+<br />
+<img align="left" src="./img/saunders-maclane.png" />  
 <img align="left" height="300px" src="./img/mathematics-form-and-function.jpg" />  
 #+END_HTML
 
@@ -142,8 +141,8 @@ I came across this talk by Jamie Vicary on building tools for exploring Category
 
 #+BEGIN_HTML
 <a href="https://www.youtube.com/watch?v=HdZk92s7z1U"><img src="./img/jamie-vicary-talk.jpg" /></a>
-<a href="https://homotopy.io"><img src="./img/homotopy-io.jpg" /></a>
-<a href="https://homotopy.io"><img src="./img/globular-science.png" /></a>
+<a href="https://homotopy.io"><img width="300px" src="./img/homotopy-io.jpg" /></a>
+<a href="https://homotopy.io"><img width="300px" src="./img/globular-science.png" /></a>
 #+END_HTML
 
 Now when studying category theory, to start seeing how the pieces fit together one has to recourse to abstract diagrams and attempt to connect these concepts with how the same concepts model things in a more visual domain, say topology. This recourse is my best bet at the moment to gain the geometric intuitions in Category Theory when learning. If you find geometric intuitions helpful in understanding mathematics, let me draw your attention to this incomplete but [[https://boris-marinov.github.io/category-theory-illustrated/][beautiful work]] by Boris Marinov.
