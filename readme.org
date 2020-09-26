@@ -39,16 +39,16 @@ If you enjoy reading the history of the subject before diving into it, I highly 
 
 Now, seeing that the subject emerged from algebraic topology, the application to Computer Science may seem arbitrary. But this came after deep investigations into computational structures and programming since around 1960s, where multiple links between algebra, automata, computational control/data structures, recursion schemes were unearthed. If you are interested in knowing about it more deeply, I have a [[https://github.com/prathyvsh/morphisms-of-computational-structures][repo]], which is a work in progress, where I try to unravel these links. A curious fact that I have to mention is that, one of the co-inventors of Category Theory, Samuel Eilenberg, went on to apply his ideas to automata after inventing Category Theory!
 
-Now that we have seen how Category Theory came around, let us look at the resources that may grant us a working knowledge of the subject.
+Now that we have seen how Category Theory came around, let us look at the resources that can guide us in building a working knowledge of the subject.
 
 * Overview
 
-Because of the standing of Category Theory as a general domain of inquiry, I have constantly felt it better to first get a cursory knowledge in functional programming and abstract algebra before tackling the subject. These paradigms are closer to the work done in Category Theory and if you come around to Category Theory without having some concrete experience in some problems where you can map the ideas you learn here, I feel it might be a bit hard to connect with this domain of study and intuition into to why such machinery is needed.
+Because of the standing of Category Theory as a general domain of inquiry, I have constantly felt it better to first get a cursory knowledge in functional programming and abstract algebra before tackling the subject. These paradigms are closer to the work done in Category Theory. If you come around to Category Theory without having some concrete experience in dealing with problems to which you can relate the ideas you learn here, I feel it might be a bit hard to connect with this domain of study and gain intuition into to why such machinery is needed.
 
 So I proceed to recommend some resource that might help you develop some functional programming knowledge before you come around to Category Theory.
 
 #+BEGIN_HTML
-<div style="border:1px solid red;">
+<div>
 <img align="left" height="300px" src="./img/htdp-cover.gif" />
 #+END_HTML
 
