@@ -141,14 +141,14 @@ I came across this talk by Jamie Vicary on building tools for exploring Category
 
 #+BEGIN_HTML
 <a href="https://www.youtube.com/watch?v=HdZk92s7z1U"><img src="./img/jamie-vicary-talk.jpg" /></a>
-<a href="https://homotopy.io"><img width="300px" src="./img/homotopy-io.jpg" /></a>
-<a href="https://homotopy.io"><img width="300px" src="./img/globular-science.png" /></a>
+<a href="https://homotopy.io"><img width="450px" src="./img/homotopy-io.jpg" /></a>
+<a href="https://homotopy.io"><img width="450px" src="./img/globular-science.png" /></a>
 #+END_HTML
 
 Now when studying category theory, to start seeing how the pieces fit together one has to recourse to abstract diagrams and attempt to connect these concepts with how the same concepts model things in a more visual domain, say topology. This recourse is my best bet at the moment to gain the geometric intuitions in Category Theory when learning. If you find geometric intuitions helpful in understanding mathematics, let me draw your attention to this incomplete but [[https://boris-marinov.github.io/category-theory-illustrated/][beautiful work]] by Boris Marinov.
 
 #+BEGIN_HTML
-<a href="https://boris-marinov.github.io/category-theory-illustrated/"><img src="./img/boris-category-theory-illustrated.png" /></a>
+<a href="https://boris-marinov.github.io/category-theory-illustrated/"><img src="./img/boris-category-theory-illustrated.svg" /></a>
 #+END_HTML
 
 * David I. Spivak and Brendan Fong
