@@ -173,8 +173,8 @@ I came across this talk by Jamie Vicary on building tools for exploring Category
 *** Globular.science and Homotopy.io 
 
 #+BEGIN_HTML
+<a href="https://homotopy.io"><img width="500px" src="./img/globular-science.png" /></a>
 <a href="https://homotopy.io"><img width="450px" src="./img/homotopy-io.jpg" /></a>
-<a href="https://homotopy.io"><img width="450px" src="./img/globular-science.png" /></a>
 <br />
 #+END_HTML
 
