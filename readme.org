@@ -191,65 +191,81 @@ Now when studying category theory, to start seeing how the pieces fit together o
 <a href="https://boris-marinov.github.io/category-theory-illustrated/"><img src="./img/boris-category-theory-illustrated.svg" /></a>
 #+END_HTML
 
-* David I. Spivak and Brendan Fong
+* Books
 
-** Book [[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
+** [[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
+David I. Spivak and Brendan Fong
 
-* Tom Leinster
 ** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
+Tom Leinster
 
-** Videos
+* [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
+Saunders Mac Lane
 
-*** [[https://www.youtube.com/watch?v=cJ46AOEOc14][David Spivak’s intro into Category Theory]]
-
-* Saunders Mac Lane
-
-** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
-
+* [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
 * Benjamin Pierce
 
-** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
+* [[https://amzn.to/2yARvpW][Category Theory in Context]]
+Emily Riehl
 
-* Emily Riehl
-
-** [[https://amzn.to/2yARvpW][Category Theory in Context]]
 Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 
-* Bartosz Milewski’s work
-
-** Book
-[[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
-
-** Videos
-https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
+* Bartosz Milewski
 
 * [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
-
-* William Lawvere and Stephen Schaneul
+David I. Spivak
 
 ** [[https://amzn.to/2zjvbli][Conceptual Mathematics: A First Introduction to Categories]]
-
-* Paulo Aluffi
+William Lawvere and Stephen Schaneul
 
 ** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
+Paulo Aluffi
+
+** Computational Category Theory
+Rydehead and Burstall
 
 ** Adjacent Reads
 
 Now these are works a bit removed from Category Theory, but still I feel will give one a good understanding of the big picture if put in the effort to understand these:
 
-*** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
+** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
 Steven Vickers
 
-* Papers
+** Diagrammatic Immanence
+
+* Papers and Presentations
 
 ** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Categories for the Working Mathematician Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
+
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
+Steve Easterbrook
 
 ** [[https://www.cs.ox.ac.uk/files/3395/PRG72.pdf][A Categorical Manifesto]]
 Goguen
 
+** [[http://web.sfc.keio.ac.jp/~hagino/thesis.pdf][A Categorical Programming Language]]
+Tatsuya Hagino
+
+* Tools
+
+** Charity
+
+** [[https://github.com/msakai/cpl][CPL Interpreter]]
+
+An interpreter for Tatsuya’s work above.
+
+
 * Talks
 
+* Series
+
+https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+* Bartosz Milewski
+
+* Single Session
+
+** [[https://www.youtube.com/watch?v=cJ46AOEOc14][David Spivak’s intro into Category Theory]]
 ** [[https://www.youtube.com/watch?v=BLk4DlNZkL8][Adjunctions in Everyday Life]]
 ** [[https://www.youtube.com/watch?v=JMP6gI5mLHc][Category Theory: The Essence of Interface Design]]
 
