@@ -234,7 +234,7 @@ http://www.cs.man.ac.uk/~david/categories/
 ** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
 Benjamin Pierce
 
-** [[https://projecteuclid.org/euclid.bia/1403013939][Topic: The Categorical Analysis of Logic]]
+** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
 
 ** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
 Saunders Mac Lane
@@ -289,3 +289,9 @@ https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
 ** [[https://nodebook.io/nodebook/717/t/x=359.07&y=391.68&k=0.53][Nodebook by Dragan Okanovic]]
 This is a really nice collection of some of the resources laid out in a "graph"ical format by Dragan.
+
+** [[https://github.com/statebox/awesome-applied-ct][Awesome applied CT]]
+Compilation of applications of Category Theory
+
+** [[http://www.logicmatters.net/categories/][Compendium by Logic Matters]]
+A really good roundup of resources for learning Category Theory
