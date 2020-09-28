@@ -295,3 +295,11 @@ Compilation of applications of Category Theory
 
 ** [[http://www.logicmatters.net/categories/][Compendium by Logic Matters]]
 A really good roundup of resources for learning Category Theory
+
+* Contributors
+
+People who have helped me with resources:
+
+** [[https://twitter.com/mimblewabe][Marek Bernát]]
+** [[Edward Ochs]]
+** And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
