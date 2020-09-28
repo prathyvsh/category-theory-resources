@@ -300,6 +300,6 @@ A really good roundup of resources for learning Category Theory
 
 People who have helped me with resources:
 
-** [[https://twitter.com/mimblewabe][Marek Bernát]]
-** [[Edward Ochs]]
-** And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
+- [[https://twitter.com/mimblewabe][Marek Bernát]]
+- [[Edward Ochs]]
+- And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
