@@ -218,7 +218,8 @@ A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/3brrok3">Algebra: Chapter 0</a></h2>
 <img width="150px" align="left" src="./img/algebra-chapter-0.png" />
-<p>Paulo Aluffi</p>
+<img src="./img/paolo-aluffi.png" />
+<p>Paolo Aluffi</p>
 <br /><br /><br /><br />
 #+END_HTML
 
@@ -227,14 +228,19 @@ Once you have covered the abstract algebra books described above, Aluffi’s boo
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/2HAe42N">Category Theory</h2></a>
 <img width="300px" align="left" src="./img/awodey-category-theory.png" />
+<img src="./img/steve-awodey.png" />
 <p>Steve Awodey</p>
 <br /><br /><br /><br />
 #+END_HTML
 
+Steve Awodey’s work is considered to be a book that goes slightly braoder that Lawvere’s work but for the prerequisities it assumes is on the same level as Conceptual Mathematics. It is a highly recommended work among Category Theorists.
+
+Lectures to this book is available here: https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
 
 #+BEGIN_HTML
 <h2><a href="https://arxiv.org/abs/1612.09375">Basic Category Theory</h2></a>
 <img width="300px" align="left" src="./img/basic-category-theory.jpg" />
+<img src="./img/tom-leinster.png" />
 <p>Tom Leinster</p>
 <br /><br /><br /><br />
 #+END_HTML
@@ -264,6 +270,10 @@ Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 [[./img/an-introduction-to-category-theory.jpg]]
 Harold Simmons
 
+** [[https://arxiv.org/abs/1102.1313][Introduction to Categories and Categorical Logic]]
+[[./img/computational-category-theory.jpg]]
+Samson Abramsky and Nikos Tzevelekos
+
 ** Computational Category Theory
 [[./img/computational-category-theory.jpg]]
 Rydehead and Burstall
@@ -292,6 +302,10 @@ Steven Vickers
 
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
 [[./img/diagrammatic-immanence.jpg]]
+
+** Under investigation
+
+*** [[https://maartenfokkinga.github.io/utwente/mmf92b.pdf][A Gentle Introduction to Category Theory: The Calculational Approach]]
 
 * Papers and Presentations
 
