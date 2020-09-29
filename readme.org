@@ -195,7 +195,7 @@ Now when studying category theory, to start seeing how the pieces fit together o
 
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/2RUAIoU">Seven Sketches in Compositionality</a></h2>
-<img width="300px" align="left" href="./img/seven-sketches-in-compositionality.jpg">
+<img width="300px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
 <p>David I. Spivak and Brendan Fong</p>
 #+END_HTML
 
@@ -203,13 +203,13 @@ Available free here: [[https://arxiv.org/abs/1803.05316]]
 
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/3brrok3">Algebra Chapter 0</a></h2>
-<img width="300px" align="left" href="./img/algebra-chapter-0.png">
+<img width="300px" align="left" src="./img/algebra-chapter-0.png" />
 <p>Paulo Aluffi</p>
 #+END_HTML
 
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/2zjvbli">Conceptual Mathematics: A First Introduction to Categories</a></h2>
-<img width="300px" align="left" href="./img/conceptual-mathematics.jpg">
+<img width="300px" align="left" src="./img/conceptual-mathematics.jpg" />
 <p>William Lawvere and Stepher Schaneul</p>
 #+END_HTML
 
