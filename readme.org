@@ -193,49 +193,71 @@ Now when studying category theory, to start seeing how the pieces fit together o
 
 * Books
 
-** [[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
-David I. Spivak and Brendan Fong
+#+BEGIN_HTML
+<a href="https://amzn.to/2RUAIoU">
+<h2>Seven Sketches in Compositionality<h2>
+<img align="left" href="./img/seven-sketches-in-compositionality.jpg">
+<p>David I. Spivak and Brendan Fong</p>
+#+END_HTML
+
+Available free here: https://arxiv.org/abs/1803.05316
 
 ** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
+[[./img/algebra-chapter-0.jpg]]
 Paulo Aluffi
 
+[[./img/conceptual-mathematics.jpg]]
 ** [[https://amzn.to/2zjvbli][Conceptual Mathematics: A First Introduction to Categories]]
 William Lawvere and Stephen Schaneul
 
+[[./img/basic-category-theory.jpg]]
 ** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
 Tom Leinster
 
+[[./img/awodey-category-theory.jpg]]
 ** [[https://amzn.to/2HAe42N][Category Theory]]
 Steve Awodey
 
+[[./img/category-theory-for-scientists.jpg]]
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
 David I. Spivak
 
+[[./img/category-theory-for-programmers.jpg]]
 ** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
 Bartosz Milewski
 
+Videos for this book is available as a series here: 
+https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+
+[[./img/categories-for-the-working-physicist.jpg]]
 ** [[http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf][Categories for the Working Physicist]]
 Bob Coecke and Eric Oliver Paquette
 
+[[./img/category-theory-in-context.jpg]]
 ** [[https://amzn.to/2yARvpW][Category Theory in Context]]
 Emily Riehl
 
 Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 
+[[./img/an-introduction-to-category-theory.jpg]]
 ** [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
 Harold Simmons
 
+[[./img/computational-category-theory.jpg]]
 ** Computational Category Theory
 Rydehead and Burstall
 
 Available free here: 
 http://www.cs.man.ac.uk/~david/categories/
 
+[[./img/basic-category-theory-for-computer-scientists.jpg]]
 ** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
 Benjamin Pierce
 
+[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
 ** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
 
+[[./img/categories-for-the-working-mathematician.jpg]]
 ** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
 Saunders Mac Lane
 
@@ -243,28 +265,36 @@ Saunders Mac Lane
 
 Now these are works a bit removed from Category Theory, but still I feel will give one a good understanding of the big picture if put in the effort to understand these:
 
+[[./img/topology-via-logic.jpg]]
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
 Steven Vickers
 
+[[./img/diagrammatic-immanence.jpg]]
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
 
 * Papers and Presentations
 
-** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Categories for the Working Mathematician Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
+[[./img/how-categories-arise-naturally.jpg]]
+** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
 
+[[./img/an-introduction-to-category-theory-for-software-engineers.jpg]]
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
 Steve Easterbrook
 
+[[./img/a-categorical-manifesto.jpg]]
 ** [[https://www.cs.ox.ac.uk/files/3395/PRG72.pdf][A Categorical Manifesto]]
 Goguen
 
+[[./img/a categorical-programming-language.jpg]]
 ** [[http://web.sfc.keio.ac.jp/~hagino/thesis.pdf][A Categorical Programming Language]]
 Tatsuya Hagino
 
 * Tools
 
+[[./img/charity.jpg]]
 ** Charity
 
+[[./img/seven-sketches-in-compositionality.jpg]]
 ** [[https://github.com/msakai/cpl][CPL Interpreter]]
 
 An interpreter for Tatsuya’s work above.
@@ -273,9 +303,6 @@ An interpreter for Tatsuya’s work above.
 * Talks
 
 * Series
-
-https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
-* Bartosz Milewski
 
 * The Catsers
 
