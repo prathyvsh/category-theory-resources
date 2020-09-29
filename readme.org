@@ -307,6 +307,8 @@ Steven Vickers
 
 *** [[https://maartenfokkinga.github.io/utwente/mmf92b.pdf][A Gentle Introduction to Category Theory: The Calculational Approach]]
 
+*** [[https://arxiv.org/abs/1912.10642][Notes on Category Theory with examples from basic mathematics (2020)]]
+
 * Papers and Presentations
 
 [[./img/how-categories-arise-naturally.jpg]]
