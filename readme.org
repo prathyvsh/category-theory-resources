@@ -195,87 +195,103 @@ Now when studying category theory, to start seeing how the pieces fit together o
 
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/2RUAIoU">Seven Sketches in Compositionality</a></h2>
-<img width="300px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
+<img width="150px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
+<img src="./img/david-spivak.png" />
+<img src="./img/brendan-fong.png" />
 <p>David I. Spivak and Brendan Fong</p>
+<br /><br /><br /><br />
 #+END_HTML
 
-Available free here: [[https://arxiv.org/abs/1803.05316]]
+This book is considered to be an entry level read into Category Theory. The book samples 7 topics from category to offer a tour of its applications. By showing concrete real life examples are emphasized, a taste for the abstract theoretical concepts is given. It is a pretty good book to get an understanding of the use of Category Theory which a lot of people are puzzled about.
 
-#+BEGIN_HTML
-<h2><a href="https://amzn.to/3brrok3">Algebra Chapter 0</a></h2>
-<img width="300px" align="left" src="./img/algebra-chapter-0.png" />
-<p>Paulo Aluffi</p>
-#+END_HTML
+A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]]
 
 #+BEGIN_HTML
 <h2><a href="https://amzn.to/2zjvbli">Conceptual Mathematics: A First Introduction to Categories</a></h2>
-<img width="300px" align="left" src="./img/conceptual-mathematics.jpg" />
-<p>William Lawvere and Stepher Schaneul</p>
+<img width="150px" align="left" src="./img/conceptual-mathematics.jpg" />
+<img src="./img/william-lawvere.png" />
+<img src="./img/stephen-schaneul.png" />
+<p>William Lawvere and Stephen Schaneul</p>
+<br /><br /><br /><br />
 #+END_HTML
 
 #+BEGIN_HTML
-<h2><a href="https://arxiv.org/abs/1612.09375">Basic Category Theory</h2></a>
-<img width="300px" align="left" href="./img/basic-category-theory.jpg">
-<p>Tom Leinster</p>
+<h2><a href="https://amzn.to/3brrok3">Algebra: Chapter 0</a></h2>
+<img width="150px" align="left" src="./img/algebra-chapter-0.png" />
+<p>Paulo Aluffi</p>
+<br /><br /><br /><br />
 #+END_HTML
 
-[[./img/awodey-category-theory.jpg]]
-** [[https://amzn.to/2HAe42N][Category Theory]]
-Steve Awodey
+Once you have covered the abstract algebra books described above, Aluffi’s book is a natural segue as a second course. The book starts by reviewing the basics and very early on gives the reader exposure to Category theoretical language to make sense of the algebraic structures. One curious fact about this book is that there are almost no references to outside resources in this book as the author wanted it to be self-contained. Aluffi explains each topics in a personal style without losing rigour and this book is a favourite among many who have learnt Category Theory. The book is a bit dense at 700 pages but the added advantage is that you get exposed to homological algebra, something that connects algebra with topology, towards the end of the book. I consider this a great read to widen your expertise once you have gotten a cursor understanding of abstract algebra and categorical language.
 
-[[./img/category-theory-for-scientists.jpg]]
+#+BEGIN_HTML
+<h2><a href="https://amzn.to/2HAe42N">Category Theory</h2></a>
+<img width="300px" align="left" src="./img/awodey-category-theory.png" />
+<p>Steve Awodey</p>
+<br /><br /><br /><br />
+#+END_HTML
+
+
+#+BEGIN_HTML
+<h2><a href="https://arxiv.org/abs/1612.09375">Basic Category Theory</h2></a>
+<img width="300px" align="left" src="./img/basic-category-theory.jpg" />
+<p>Tom Leinster</p>
+<br /><br /><br /><br />
+#+END_HTML
+
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
+[[./img/category-theory-for-scientists.jpg]]
 David I. Spivak
 
-[[./img/category-theory-for-programmers.jpg]]
 ** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
+[[./img/category-theory-for-programmers.jpg]]
 Bartosz Milewski
 
 Videos for this book is available as a series here: 
 https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
-[[./img/categories-for-the-working-physicist.jpg]]
 ** [[http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf][Categories for the Working Physicist]]
+[[./img/categories-for-the-working-physicist.jpg]]
 Bob Coecke and Eric Oliver Paquette
 
-[[./img/category-theory-in-context.jpg]]
 ** [[https://amzn.to/2yARvpW][Category Theory in Context]]
+[[./img/category-theory-in-context.jpg]]
 Emily Riehl
 
 Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 
-[[./img/an-introduction-to-category-theory.jpg]]
 ** [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
+[[./img/an-introduction-to-category-theory.jpg]]
 Harold Simmons
 
-[[./img/computational-category-theory.jpg]]
 ** Computational Category Theory
+[[./img/computational-category-theory.jpg]]
 Rydehead and Burstall
 
 Available free here: 
 http://www.cs.man.ac.uk/~david/categories/
 
-[[./img/basic-category-theory-for-computer-scientists.jpg]]
 ** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
+[[./img/basic-category-theory-for-computer-scientists.jpg]]
 Benjamin Pierce
 
-[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
 ** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
+[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
 
-[[./img/categories-for-the-working-mathematician.jpg]]
 ** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
+[[./img/categories-for-the-working-mathematician.jpg]]
 Saunders Mac Lane
 
 ** Adjacent Reads
 
 Now these are works a bit removed from Category Theory, but still I feel will give one a good understanding of the big picture if put in the effort to understand these:
 
-[[./img/topology-via-logic.jpg]]
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
+[[./img/topology-via-logic.jpg]]
 Steven Vickers
 
-[[./img/diagrammatic-immanence.jpg]]
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
+[[./img/diagrammatic-immanence.jpg]]
 
 * Papers and Presentations
 
