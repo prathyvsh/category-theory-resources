@@ -195,10 +195,10 @@ Now when studying category theory, to start seeing how the pieces fit together o
 
 #+BEGIN_HTML
 <a href="https://amzn.to/2RUAIoU">
-<img width="300px" align="left" href="./img/seven-sketches-in-compositionality.jpg">
 <h2>Seven Sketches in Compositionality</h2>
-<p>David I. Spivak and Brendan Fong</p>
 </a>
+<img width="300px" align="left" href="./img/seven-sketches-in-compositionality.jpg">
+<p>David I. Spivak and Brendan Fong</p>
 #+END_HTML
 
 Available free here: [[https://arxiv.org/abs/1803.05316]]
@@ -206,25 +206,25 @@ Available free here: [[https://arxiv.org/abs/1803.05316]]
 #+BEGIN_HTML
 <a href="https://amzn.to/3brrok3">
 <h2>Algebra Chapter 0</h2>
+</a>
 <img width="300px" align="left" href="./img/algebra-chapter-0.png">
 <p>Paulo Aluffi</p>
-</a>
 #+END_HTML
 
 #+BEGIN_HTML
 <a href="https://amzn.to/2zjvbli">
 <h2>Conceptual Mathematics: A First Introduction to Categories</h2>
+</a>
 <img width="300px" align="left" href="./img/conceptual-mathematics.jpg">
 <p>William Lawvere and Stepher Schaneul</p>
-</a>
 #+END_HTML
 
 #+BEGIN_HTML
 <a href="https://arxiv.org/abs/1612.09375">
 <h2>Basic Category Theory</h2>
+</a>
 <img width="300px" align="left" href="./img/basic-category-theory.jpg">
 <p>Tom Leinster</p>
-</a>
 #+END_HTML
 
 [[./img/awodey-category-theory.jpg]]
