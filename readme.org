@@ -249,10 +249,10 @@ with minimal amount of prerequisites. The lucid introductions are said to give a
 
 #+BEGIN_HTML
 <img align="left" src="./img/steve-awodey.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
-Steve Awodey’s work is considered to be a book that goes slightly braoder that Lawvere’s work but for the prerequisities it assumes is on the same level as Conceptual Mathematics. It is a highly recommended work among Category Theorists.
+Steve Awodey’s work is considered to be a book that goes slightly braoder that Lawvere and Schaneul’s work but for the prerequisities it assumes is on the same level as Conceptual Mathematics. It is a highly recommended work among Category Theorists.
 
 Lectures to this book is available here: https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
 
@@ -270,20 +270,24 @@ Lectures to this book is available here: https://www.youtube.com/playlist?list=P
 
 Tom Leinster’s book is an edited version of his lecture notes. This concise work with focussed attention given on the topics it addresses. The fundamental topics are covered in this book and a free version is available online here: https://arxiv.org/abs/1612.09375
 
-** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
-[[./img/category-theory-for-scientists.jpg]]
-David I. Spivak
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/category-theory-for-programmers.jpg" />
+#+END_HTML
 
 ** [[https://github.com/hmemcpy/milewski-ctfp-pdf/][Category Theory for Programmers]]
-[[./img/category-theory-for-programmers.jpg]]
-Bartosz Milewski
+*Bartosz Milewski (2018)*, 350 pages
+
+#+BEGIN_HTML
+<img align="left" src="./img/bartosz-milewski.png" />
+<br /><br /><br /><br />
+#+END_HTML
+
+Bartosz version features a rich blend of images with descriptions of Category Theory oriented towards a practicing programmer. He frequently blogs about ideas on Category Theory and gives examples in of programming instances where category theory provides leverage. He is an active figure in the discourse surrounding Category Theory on the internet.  
 
 Videos for this book is available as a series here: 
 https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
-** [[http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf][Categories for the Working Physicist]]
-[[./img/categories-for-the-working-physicist.jpg]]
-Bob Coecke and Eric Oliver Paquette
+PDF versions that is compiled from the blogposts with support for different language is available here: https://github.com/hmemcpy/milewski-ctfp-pdf
 
 ** [[https://amzn.to/2yARvpW][Category Theory in Context]]
 [[./img/category-theory-in-context.jpg]]
@@ -295,13 +299,20 @@ Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 [[./img/an-introduction-to-category-theory.jpg]]
 Harold Simmons
 
+This is a lesser known introduction to Category Theory. But from the people who have read it, I have heard only good things about it.
+
 ** [[https://arxiv.org/abs/1102.1313][Introduction to Categories and Categorical Logic]]
 [[./img/computational-category-theory.jpg]]
 Samson Abramsky and Nikos Tzevelekos
 
-** Computational Category Theory
+This book was suggested to me by Eduardo Ochs.
+
+** [[][Computational Category Theory]]
 [[./img/computational-category-theory.jpg]]
-Rydehead and Burstall
+David Rydehead and Rod Burstall
+
+Computational Category Theory uses the Standard ML programming language to give a hands on experience into the category theory ideas.
+Having an REPL for interacting with your ideas is a solid way to build your understanding of how these ideas can be represented and manipulated with the computer.
 
 Available free here: 
 http://www.cs.man.ac.uk/~david/categories/
@@ -312,6 +323,15 @@ Benjamin Pierce
 
 ** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
 [[./img/topoi-the-categorical-analysis-of-logic.jpg]]
+
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/category-theory-for-scientists-cover.jpg" />
+#+END_HTML
+
+** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
+*David I. Spivak, 2014*, 486 pages
+
+These are the edited version of Spivak’s notes for his 2013 Category Theory course. The original lectures are available online: http://math.mit.edu/~dspivak/CT4S.pdf
 
 ** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
 [[./img/categories-for-the-working-mathematician.jpg]]
@@ -342,6 +362,11 @@ Steven Vickers
 [[./img/an-introduction-to-category-theory-for-software-engineers.jpg]]
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
 Steve Easterbrook
+
+** [[http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf][Categories for the Working Physicist]]
+Bob Coecke and Eric Oliver Paquette
+
+Notes from Coecke and Paquette that introduces category theory for an interested physicist. They introduce the ideas by connecting with vector spaces and tensors.
 
 [[./img/a-categorical-manifesto.jpg]]
 ** [[https://www.cs.ox.ac.uk/files/3395/PRG72.pdf][A Categorical Manifesto]]
