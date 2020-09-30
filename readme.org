@@ -241,7 +241,7 @@ Conceptual Mathematics is a popular favourite choice as an introduction to Categ
 with minimal amount of prerequisites. The lucid introductions are said to give a conceptual understanding of the ideas of Category Theory. 
 
 #+BEGIN_HTML
-<img width="150px" align="left" src="./img/awodey-category-theory.png" />
+<img width="150px" align="left" src="./img/awodey-category-theory.jpg" />
 #+END_HTML
 
 ** [[https://amzn.to/2HAe42N][Category Theory]]
@@ -325,7 +325,7 @@ Benjamin Pierce
 [[./img/topoi-the-categorical-analysis-of-logic.jpg]]
 
 #+BEGIN_HTML
-<img width="150px" align="left" src="./img/category-theory-for-scientists-cover.jpg" />
+<img width="150px" align="left" src="./img/category-theory-for-the-sciences.jpg" />
 #+END_HTML
 
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
