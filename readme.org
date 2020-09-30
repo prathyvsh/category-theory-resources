@@ -225,8 +225,9 @@ A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]
 
 Once you have covered the abstract algebra books described above, Aluffi’s book is a natural segue as a second course. The book starts by reviewing the basics and very early on gives the reader exposure to Category theoretical language to make sense of the algebraic structures. One curious fact about this book is that there are almost no references to outside resources in this book as the author wanted it to be self-contained. Aluffi explains each topics in a personal style without losing rigour and this book is a favourite among many who have learnt Category Theory. The book is a bit dense at 700 pages but the added advantage is that you get exposed to homological algebra, something that connects algebra with topology, towards the end of the book. I consider this a great read to widen your expertise once you have gotten a cursor understanding of abstract algebra and categorical language.
 
+** [[https://amzn.to/2HAe42N][Category Theory]]
+
 #+BEGIN_HTML
-<h2><a href="https://amzn.to/2HAe42N">Category Theory</h2></a>
 <img width="300px" align="left" src="./img/awodey-category-theory.png" />
 <img src="./img/steve-awodey.png" />
 <p>Steve Awodey</p>
@@ -237,8 +238,9 @@ Steve Awodey’s work is considered to be a book that goes slightly braoder that
 
 Lectures to this book is available here: https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
 
+** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
+
 #+BEGIN_HTML
-<h2><a href="https://arxiv.org/abs/1612.09375">Basic Category Theory</h2></a>
 <img width="300px" align="left" src="./img/basic-category-theory.jpg" />
 <img src="./img/tom-leinster.png" />
 <p>Tom Leinster</p>
