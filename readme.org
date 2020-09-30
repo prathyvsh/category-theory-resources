@@ -232,23 +232,23 @@ Once you have covered the abstract algebra books described above, Aluffi’s boo
 *William Lawvere and Stephen Schaneul (2nd edition 2009, 1st edition 1991)*, 408 pages
 
 #+BEGIN_HTML
-<img width="75px" hsrc="./img/william-lawvere.png" />
-<img width="75px" src="./img/stephen-schaneul.png" />
-<br /><br /><br /><br /><br /><br />
+<img align="left" width="75px" src="./img/william-lawvere.png" />
+<img align="left" width="75px" src="./img/stephen-schaneul.png" />
+<br /><br /><br /><br />
 #+END_HTML
 
 Conceptual Mathematics is a popular favourite choice as an introduction to Category Theory. It starts with set theory and goes upto introducing toposes. It does this 
 with minimal amount of prerequisites. The lucid introductions are said to give a conceptual understanding of the ideas of Category Theory. 
 
 #+BEGIN_HTML
-<img width="300px" align="left" src="./img/awodey-category-theory.png" />
+<img width="150px" align="left" src="./img/awodey-category-theory.png" />
 #+END_HTML
 
 ** [[https://amzn.to/2HAe42N][Category Theory]]
+*Steve Awodey (2010)*, 311 pages
 
 #+BEGIN_HTML
-<img src="./img/steve-awodey.png" />
-<p>Steve Awodey</p>
+<img align="left" src="./img/steve-awodey.png" />
 <br /><br /><br /><br />
 #+END_HTML
 
@@ -257,14 +257,14 @@ Steve Awodey’s work is considered to be a book that goes slightly braoder that
 Lectures to this book is available here: https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
 
 #+BEGIN_HTML
-<img width="300px" align="left" src="./img/basic-category-theory.jpg" />
+<img width="150px" align="left" src="./img/basic-category-theory.jpg" />
 #+END_HTML
 
 ** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
-*Tom Leinster (2014), 190 pages*
+*Tom Leinster (2014)*, 190 pages
 
 #+BEGIN_HTML
-<img src="./img/tom-leinster.png" />
+<img align="left" src="./img/tom-leinster.png" />
 <br /><br /><br /><br />
 #+END_HTML
 
