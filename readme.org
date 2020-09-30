@@ -198,12 +198,12 @@ Now when studying category theory, to start seeing how the pieces fit together o
 #+END_HTML
 
 ** [[https://amzn.to/2RUAIoU][An Invitation to Applied Category Theory: Seven Sketches in Compositionality]]
-*David I. Spivak and Brendan Fong*
+*David I. Spivak and Brendan Fong (2019)*
 
 #+BEGIN_HTML
-<img align="left" src="./img/david-spivak.png" />
-<img align="left" src="./img/brendan-fong.png" />
-<br /><br /><br /><br />
+<img width="80px" align="left" src="./img/david-spivak.png" />
+<img width="80px" align="left" src="./img/brendan-fong.png" />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 This book is considered to be an entry level read into Category Theory. The book samples 7 topics from category to offer a tour of its applications. By showing concrete real life examples are emphasized, a taste for the abstract theoretical concepts is given. It is a pretty good book to get an understanding of the use of Category Theory which a lot of people are puzzled about.
