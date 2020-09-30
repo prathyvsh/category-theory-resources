@@ -197,7 +197,7 @@ Now when studying category theory, to start seeing how the pieces fit together o
 <img width="150px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
 #+END_HTML
 
-[[https://amzn.to/2RUAIoU][An Invitation to Applied Category Theory: Seven Sketches in Compositionality]]
+** [[https://amzn.to/2RUAIoU][An Invitation to Applied Category Theory: Seven Sketches in Compositionality]]
 *David I. Spivak and Brendan Fong*
 
 #+BEGIN_HTML
