@@ -198,11 +198,11 @@ Now when studying category theory, to start seeing how the pieces fit together o
 #+END_HTML
 
 ** [[https://amzn.to/2RUAIoU][An Invitation to Applied Category Theory: Seven Sketches in Compositionality]]
-*David I. Spivak and Brendan Fong (2019)*
+*David I. Spivak and Brendan Fong (2019)*, 348 pages
 
 #+BEGIN_HTML
-<img width="80px" align="left" src="./img/david-spivak.png" />
-<img width="80px" align="left" src="./img/brendan-fong.png" />
+<img width="75px" align="left" src="./img/david-spivak.png" />
+<img width="75px" align="left" src="./img/brendan-fong.png" />
 <br /><br /><br /><br /><br /><br />
 #+END_HTML
 
@@ -211,23 +211,31 @@ This book is considered to be an entry level read into Category Theory. The book
 A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]]
 
 #+BEGIN_HTML
-<h2><a href="https://amzn.to/2zjvbli">Conceptual Mathematics: A First Introduction to Categories</a></h2>
 <img width="150px" align="left" src="./img/conceptual-mathematics.jpg" />
-<img src="./img/william-lawvere.png" />
-<img src="./img/stephen-schaneul.png" />
-<p>William Lawvere and Stephen Schaneul</p>
-<br /><br /><br /><br />
 #+END_HTML
 
+** [[https://amzn.to/3brrok3][Algebra: Chapter 0]]
+*Paolo Aluffii (2009)*, 728 pages
+
 #+BEGIN_HTML
-<h2><a href="https://amzn.to/3brrok3">Algebra: Chapter 0</a></h2>
 <img width="150px" align="left" src="./img/algebra-chapter-0.png" />
 <img src="./img/paolo-aluffi.png" />
-<p>Paolo Aluffi</p>
 <br /><br /><br /><br />
 #+END_HTML
 
 Once you have covered the abstract algebra books described above, Aluffi’s book is a natural segue as a second course. The book starts by reviewing the basics and very early on gives the reader exposure to Category theoretical language to make sense of the algebraic structures. One curious fact about this book is that there are almost no references to outside resources in this book as the author wanted it to be self-contained. Aluffi explains each topics in a personal style without losing rigour and this book is a favourite among many who have learnt Category Theory. The book is a bit dense at 700 pages but the added advantage is that you get exposed to homological algebra, something that connects algebra with topology, towards the end of the book. I consider this a great read to widen your expertise once you have gotten a cursor understanding of abstract algebra and categorical language.
+
+** [[https://amzn.to/2zjvbli][Conceptual Mathematics: A First Introduction to Categories]]
+*William Lawvere and Stephen Schaneul (2nd edition 2009, 1st edition 1991)*, 408 pages
+
+#+BEGIN_HTML
+<img width="75px" hsrc="./img/william-lawvere.png" />
+<img width="75px" src="./img/stephen-schaneul.png" />
+<br /><br /><br /><br /><br /><br />
+#+END_HTML
+
+Conceptual Mathematics is a popular favourite choice as an introduction to Category Theory. It starts with set theory and goes upto introducing toposes. It does this 
+with minimal amount of prerequisites. The lucid introductions are said to give a conceptual understanding of the ideas of Category Theory. 
 
 #+BEGIN_HTML
 <img width="300px" align="left" src="./img/awodey-category-theory.png" />
@@ -245,14 +253,19 @@ Steve Awodey’s work is considered to be a book that goes slightly braoder that
 
 Lectures to this book is available here: https://www.youtube.com/playlist?list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb
 
-** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
-
 #+BEGIN_HTML
 <img width="300px" align="left" src="./img/basic-category-theory.jpg" />
+#+END_HTML
+
+** [[https://arxiv.org/abs/1612.09375][Basic Category Theory]]
+*Tom Leinster (2014), 190 pages*
+
+#+BEGIN_HTML
 <img src="./img/tom-leinster.png" />
-<p>Tom Leinster</p>
 <br /><br /><br /><br />
 #+END_HTML
+
+Tom Leinster’s book is an edited version of his lecture notes. This concise work with focussed attention given on the topics it addresses. The fundamental topics are covered in this book and a free version is available online here: https://arxiv.org/abs/1612.09375
 
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
 [[./img/category-theory-for-scientists.jpg]]
