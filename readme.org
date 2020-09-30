@@ -194,8 +194,12 @@ Now when studying category theory, to start seeing how the pieces fit together o
 * Books
 
 #+BEGIN_HTML
-<h2><a href="https://amzn.to/2RUAIoU">Seven Sketches in Compositionality</a></h2>
 <img width="150px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
+#+END_HTML
+
+[[https://amzn.to/2RUAIoU][Seven Sketches in Compositionality]]
+
+#+BEGIN_HTML
 <img src="./img/david-spivak.png" />
 <img src="./img/brendan-fong.png" />
 <p>David I. Spivak and Brendan Fong</p>
@@ -336,7 +340,7 @@ Tatsuya Hagino
 [[./img/charity.jpg]]
 ** Charity
 
-[[./img/seven-sketches-in-compositionality.jpg]]
+[[./img/cpl-interpreter.jpg]]
 ** [[https://github.com/msakai/cpl][CPL Interpreter]]
 
 An interpreter for Tatsuya’s work above.
