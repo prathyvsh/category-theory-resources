@@ -114,7 +114,6 @@ To make this case, let me first mention this book by Saunders Mac Lane, the co-i
 
 Now an adjacent field to Category Theory is Abstract Algebra. The route I have taken is to first learn abstract algebra which undergirds the algebraic species that are often subjects of study in Category Theory. To make sense of these, let me mention a few books. It is not mandatory reading, if you want to dive first into Category Theory. In fact some of the books that I have put together here allows one to learn Category Theory without much prerequisite knowledge but abstract algebra is a field that I have felt is most proximate and has aided me ease into Category Theory texts.
 
-
 #+BEGIN_HTML
 <br />
 <img align="left" height="300px" src="./img/a-book-of-abstract-algebra.jpg" />  
@@ -289,40 +288,76 @@ https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 
 PDF versions that is compiled from the blogposts with support for different language is available here: https://github.com/hmemcpy/milewski-ctfp-pdf
 
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/category-theory-in-context.jpg" />
+#+END_HTML
+
 ** [[https://amzn.to/2yARvpW][Category Theory in Context]]
-[[./img/category-theory-in-context.jpg]]
-Emily Riehl
+*Emily Riehl, 2016*, 272 pages
+
+#+BEGIN_HTML
+<img align="left" width="75px" src="./img/emily-riehl.png" />
+<br /><br /><br /><br />
+#+END_HTML
 
 Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/an-introduction-to-category-theory.jpg" />
+#+END_HTML
+
 ** [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
-[[./img/an-introduction-to-category-theory.jpg]]
+#+BEGIN_HTML
+<img align="left" width="75px" src="./img/harold-simmons.png" />
+<br /><br /><br /><br />
+#+END_HTML
 Harold Simmons
 
-This is a lesser known introduction to Category Theory. But from the people who have read it, I have heard only good things about it.
+This is a lesser known introduction to Category Theory. But from the people who have read it, I have heard only good words about it.
+
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/introduction-to-categories-and-categorical-logic.png" />
+#+END_HTML
 
 ** [[https://arxiv.org/abs/1102.1313][Introduction to Categories and Categorical Logic]]
-[[./img/computational-category-theory.jpg]]
-Samson Abramsky and Nikos Tzevelekos
+*Samson Abramsky and Nikos Tzevelekos*
+
+#+BEGIN_HTML
+<img align="left" width="75px" src="./img/samson-abramsky.png" />
+<img align="left" width="75px" src="./img/nikos-tzevelekos.png" />
+<br /><br /><br /><br />
+#+END_HTML
 
 This book was suggested to me by Eduardo Ochs.
 
-** [[][Computational Category Theory]]
-[[./img/computational-category-theory.jpg]]
-David Rydehead and Rod Burstall
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/computational-category-theory.png" />
+#+END_HTML
+
+** [[http://www.cs.man.ac.uk/~david/categories/][Computational Category Theory]]
+*David Rydehead and Rod Burstall (1988)*, 263
+#+BEGIN_HTML
+<img align="left" width="75px" src="./img/david-rydehead.png" />
+<img align="left" width="75px" src="./img/rod-burstall.png" />
+<br /><br /><br /><br />
+#+END_HTML
 
 Computational Category Theory uses the Standard ML programming language to give a hands on experience into the category theory ideas.
 Having an REPL for interacting with your ideas is a solid way to build your understanding of how these ideas can be represented and manipulated with the computer.
+It is available for free online.
 
-Available free here: 
-http://www.cs.man.ac.uk/~david/categories/
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/basic-category-theory-for-computer-scientists.jpg" />
+#+END_HTML
 
 ** [[https://amzn.to/34Sc3qc][Basic Category Theory for Computer Scientists]]
 [[./img/basic-category-theory-for-computer-scientists.jpg]]
 Benjamin Pierce
 
-** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
-[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
+#+BEGIN_HTML
+<img align="left" src="./img/benjamin-pierce.png" />
+<br /><br /><br /><br />
+#+END_HTML
 
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/category-theory-for-the-sciences.jpg" />
@@ -331,11 +366,21 @@ Benjamin Pierce
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
 *David I. Spivak, 2014*, 486 pages
 
+#+BEGIN_HTML
+<img align="left" src="./img/david-spivak.png" />
+<br /><br /><br /><br />
+#+END_HTML
+
 These are the edited version of Spivak’s notes for his 2013 Category Theory course. The original lectures are available online: http://math.mit.edu/~dspivak/CT4S.pdf
 
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/categories-for-the-working-mathematician.jpg" />
+#+END_HTML
+
 ** [[https://amzn.to/3mHPk8D][Categories for the Working Mathematician]]
-[[./img/categories-for-the-working-mathematician.jpg]]
-Saunders Mac Lane
+*Saunders Mac Lane, (1st Edition 1971, 2nd Edition 1998)*, 317 pages
+
+An comprehensive reference on the book written by the co-founder of the field.  The book is said to be thorough on its treatment and a bit demanding on the reader as the mathematics is involved. But this pays off by giving you a rigorous grounding in the material. It is recommended to read this book after one or two of the above books are read before or simultaneously with it.
 
 ** Adjacent Reads
 
@@ -345,6 +390,13 @@ Now these are works a bit removed from Category Theory, but still I feel will gi
 [[./img/topology-via-logic.jpg]]
 Steven Vickers
 
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/topoi-the-categorical-analysis-of-logic.jpg" />
+#+END_HTML
+
+** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
+[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
+
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
 [[./img/diagrammatic-immanence.jpg]]
 
@@ -353,6 +405,10 @@ Steven Vickers
 *** [[https://maartenfokkinga.github.io/utwente/mmf92b.pdf][A Gentle Introduction to Category Theory: The Calculational Approach]]
 
 *** [[https://arxiv.org/abs/1912.10642][Notes on Category Theory with examples from basic mathematics (2020)]]
+
+*** [[https://www.di.ens.fr/users/longo/files/CategTypesStructures/book.pdf][Categories, Types, and Structures]]
+
+*** [[http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html][Abstract and Concrete Categories: The Joy of Cats]]
 
 * Papers and Presentations
 
