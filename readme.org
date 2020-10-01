@@ -425,7 +425,7 @@ Now these are works a bit removed from Category Theory, but still I feel will gi
 #+END_HTML
 
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
-Steven Vickers
+*Steven Vickers (2008)*, 220 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/steven-vickers.png" />
@@ -439,6 +439,7 @@ Topology via Logic is a book that intrigued me for it showed the link between ge
 #+END_HTML
 
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
+*Rocco Gangle (2015)*, 264 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/rocco-gangle.png" />
@@ -452,6 +453,7 @@ I found out about this book accidentally when searching on Twitter for Category 
 #+END_HTML
 
 ** [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalente Foundations of Mathematics]]
+Univalent Foundations Project, 2015
 
 Homotopy came out as the result of [[https://www.ias.edu/ideas/2014/voevodsky-origins][Voevodsky’s attempt]] at trying to create an environment for theorem proving.
 
