@@ -302,6 +302,10 @@ PDF versions that is compiled from the blogposts with support for different lang
 <br /><br /><br /><br />
 #+END_HTML
 
+This is an advanced text that can be read by a serious student after one or more of the previous texts have been mastered. The prose is said to be very well written as an exposition ta Category Theory and an example driven approach is relied upon before the category theoretical language is shown to encompass the ideas.
+
+Definitely a book to keep in mind on your journey once you have crossed the rubicon of having understood the basics and has become fluent in the language.
+
 Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 
 #+BEGIN_HTML
@@ -322,7 +326,8 @@ This is a lesser known introduction to Category Theory. But from the people who 
 #+END_HTML
 
 ** [[https://arxiv.org/abs/1102.1313][Introduction to Categories and Categorical Logic]]
-*Samson Abramsky and Nikos Tzevelekos*
+*Samson Abramsky and Nikos Tzevelekos (2011)*, 1010 pages
+
 
 #+BEGIN_HTML
 <img align="left" width="75px" src="./img/samson-abramsky.png" />
@@ -332,12 +337,15 @@ This is a lesser known introduction to Category Theory. But from the people who 
 
 This book was suggested to me by Eduardo Ochs.
 
+This is a short read at around 100 pages, but is said to build up the concepts by giving examples of how category theory captures things in the large and in the small, which showcases ideas like naturality, generality, and rigour that powers Category Theory.
+
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/computational-category-theory.png" />
 #+END_HTML
 
 ** [[http://www.cs.man.ac.uk/~david/categories/][Computational Category Theory]]
-*David Rydehead and Rod Burstall (1988)*, 263
+*David Rydehead and Rod Burstall (1988)*, 263 pages
+
 #+BEGIN_HTML
 <img align="left" width="75px" src="./img/david-rydehead.png" />
 <img align="left" width="75px" src="./img/rod-burstall.png" />
@@ -360,7 +368,23 @@ It is available for free online.
 <br /><br /><br /><br />
 #+END_HTML
 
+Pierce’s book is a concise treatment of category theoretical concepts oriented towards a computer scientist. At around 60 pages, the book touches on basic ideas like categories, products, pullbacks, limits, functors, F-algebras, natural transformations, adjoints and gives a discuss on the application of these ideas.
+
 [[https://people.csail.mit.edu/jgross/personal-website/papers/academic-papers-local/repository.cmu.edu__cgi__viewcontent.cgi_article=2846_context=compsci.pdf][Paper]] by Pierce on Category Theory
+
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/topoi-the-categorical-analysis-of-logic.jpg" />
+#+END_HTML
+
+** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
+*Robert Goldblatt (1984), 569 pages
+
+#+BEGIN_HTML
+<img align="left" src="./img/robert-goldblatt.png" />
+<br /><br /><br /><br />
+#+END_HTML
+
+This book begins from a set theorical standpoint of logic and walks the user carefully to develop an understanding of the Category theoretic perspective. Author presents the concrete examples in logic and then abstracts out the common patterns to ground it in the categorical language. I think I wouldn’t be too off if I say that this book is close to Sawyer’s A Concrete Approach to Abstract Algebra. The application of topology to logic makes it a natural segue to understanding Steven Vickers’ work mentioned below.
 
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/category-theory-for-the-sciences.jpg" />
@@ -393,19 +417,38 @@ An comprehensive reference on the book written by the co-founder of the field.  
 
 Now these are works a bit removed from Category Theory, but still I feel will give one a good understanding of the big picture if put in the effort to understand these:
 
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/topology-via-logic.jpg" />
+#+END_HTML
+
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
 [[./img/topology-via-logic.jpg]]
 Steven Vickers
 
 #+BEGIN_HTML
-<img width="150px" align="left" src="./img/topoi-the-categorical-analysis-of-logic.jpg" />
+<img align="left" src="./img/steven-vickers.png" />
+<br /><br /><br /><br />
 #+END_HTML
 
-** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
-[[./img/topoi-the-categorical-analysis-of-logic.jpg]]
+Topology via Logic is a book that intrigued me for it showed the link between geometry and logic that I have been always enamoured about. As I have indicated above, there is something geometrical about the abstract mathematical structures and this one is a book that I wish to explore once I have developed sufficient mathematical rigour to understand what is happening in the intersection of topology and logic.
+
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/diagrammatic-immanence.jpg" />
+#+END_HTML
 
 ** [[https://edinburghuniversitypress.com/book-diagrammatic-immanence.html][Diagrammatic Immanence]]
-[[./img/diagrammatic-immanence.jpg]]
+
+#+BEGIN_HTML
+<img align="left" src="./img/rocco-gangle.png" />
+<br /><br /><br /><br />
+#+END_HTML
+
+** [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalente Foundations of Mathematics]]
+
+Homotopy came out as the result of [[https://www.ias.edu/ideas/2014/voevodsky-origins][Voevodsky’s attempt]] at trying to create an environment for theorem proving.
+
+And some of the results from this line of inquiry is stunning to say the least. There are interpretations of topological shapes as corresponding types.
+It is a bit above my level of understanding to fully articulate what this means for computation and Category Theory. But definitely one of those aspiring reads for me.
 
 ** Under investigation
 
