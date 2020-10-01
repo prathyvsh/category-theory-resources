@@ -425,7 +425,7 @@ Now these are works a bit removed from Category Theory, but still I feel will gi
 #+END_HTML
 
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
-*Steven Vickers (2008)*, 220 pages
+*Steven Vickers (1989)*, 220 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/steven-vickers.png" />
