@@ -526,6 +526,9 @@ Compilation of applications of Category Theory
 ** [[http://www.logicmatters.net/categories/][Compendium by Logic Matters]]
 A really good roundup of resources for learning Category Theory
 
+** [[https://github.com/drever/act-munich][Applied Category Theory Munic]]
+Pretty nice curation by Johannes Drever wihch includes softwares to explore Category Theory and podcasts for being in the know.
+
 * Contributors
 
 People who have helped me with resources:
