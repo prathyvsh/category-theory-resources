@@ -351,14 +351,14 @@ It is available for free online.
 #+END_HTML
 
 ** [[https://amzn.to/33hXCN6][Basic Category Theory for Computer Scientists]]
-*Benjamin Pierce (1991),* 114 pages
-
-[[https://people.csail.mit.edu/jgross/personal-website/papers/academic-papers-local/repository.cmu.edu__cgi__viewcontent.cgi_article=2846_context=compsci.pdf][Paper]] by Pierce on Category Theory
+*Benjamin Pierce (1991)*, 114 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/benjamin-pierce.png" />
 <br /><br /><br /><br />
 #+END_HTML
+
+[[https://people.csail.mit.edu/jgross/personal-website/papers/academic-papers-local/repository.cmu.edu__cgi__viewcontent.cgi_article=2846_context=compsci.pdf][Paper]] by Pierce on Category Theory
 
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/category-theory-for-the-sciences.jpg" />
@@ -382,7 +382,7 @@ These are the edited version of Spivak’s notes for his 2013 Category Theory co
 *Saunders Mac Lane, (1st Edition 1971, 2nd Edition 1998)*, 317 pages
 
 #+BEGIN_HTML
-<img align="left" src="./img/saunders-maclane-100.png" />
+<img align="left" src="./img/saunders-maclane-small.png" />
 #+END_HTML
 
 An comprehensive reference on the book written by the co-founder of the field.  The book is said to be thorough on its treatment and a bit demanding on the reader as the mathematics is involved. But this pays off by giving you a rigorous grounding in the material. It is recommended to read this book after one or two of the above books are read before or simultaneously with it.
