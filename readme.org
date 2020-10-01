@@ -365,7 +365,7 @@ It is available for free online.
 
 #+BEGIN_HTML
 <img align="left" src="./img/benjamin-pierce.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 Pierce’s book is a concise treatment of category theoretical concepts oriented towards a computer scientist. At around 60 pages, the book touches on basic ideas like categories, products, pullbacks, limits, functors, F-algebras, natural transformations, adjoints and gives a discuss on the application of these ideas.
@@ -377,11 +377,11 @@ Pierce’s book is a concise treatment of category theoretical concepts oriented
 #+END_HTML
 
 ** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
-*Robert Goldblatt (1984), 569 pages
+*Robert Goldblatt (1984)*, 569 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/robert-goldblatt.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 This book begins from a set theorical standpoint of logic and walks the user carefully to develop an understanding of the Category theoretic perspective. Author presents the concrete examples in logic and then abstracts out the common patterns to ground it in the categorical language. I think I wouldn’t be too off if I say that this book is close to Sawyer’s A Concrete Approach to Abstract Algebra. The application of topology to logic makes it a natural segue to understanding Steven Vickers’ work mentioned below.
@@ -391,11 +391,11 @@ This book begins from a set theorical standpoint of logic and walks the user car
 #+END_HTML
 
 ** [[https://amzn.to/2Vr801a][Category Theory for Scientists]]
-*David I. Spivak, 2014*, 486 pages
+*David I. Spivak (2014)*, 486 pages
 
 #+BEGIN_HTML
 <img align="left" src="./img/david-spivak.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 These are the edited version of Spivak’s notes for his 2013 Category Theory course. The original lectures are available online: http://math.mit.edu/~dspivak/CT4S.pdf
@@ -409,6 +409,7 @@ These are the edited version of Spivak’s notes for his 2013 Category Theory co
 
 #+BEGIN_HTML
 <img align="left" src="./img/saunders-maclane-small.png" />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 An comprehensive reference on the book written by the co-founder of the field.  The book is said to be thorough on its treatment and a bit demanding on the reader as the mathematics is involved. But this pays off by giving you a rigorous grounding in the material. It is recommended to read this book after one or two of the above books are read before or simultaneously with it.
@@ -422,12 +423,11 @@ Now these are works a bit removed from Category Theory, but still I feel will gi
 #+END_HTML
 
 ** [[https://amzn.to/2Vp5HLJ][Topology via Logic]]
-[[./img/topology-via-logic.jpg]]
 Steven Vickers
 
 #+BEGIN_HTML
 <img align="left" src="./img/steven-vickers.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 #+END_HTML
 
 Topology via Logic is a book that intrigued me for it showed the link between geometry and logic that I have been always enamoured about. As I have indicated above, there is something geometrical about the abstract mathematical structures and this one is a book that I wish to explore once I have developed sufficient mathematical rigour to understand what is happening in the intersection of topology and logic.
@@ -440,7 +440,11 @@ Topology via Logic is a book that intrigued me for it showed the link between ge
 
 #+BEGIN_HTML
 <img align="left" src="./img/rocco-gangle.png" />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
+#+END_HTML
+
+#+BEGIN_HTML
+<img width="150px" align="left" src="./img/homotopy-type-theory-cover.png" />
 #+END_HTML
 
 ** [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalente Foundations of Mathematics]]
