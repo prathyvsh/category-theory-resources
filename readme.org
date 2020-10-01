@@ -376,7 +376,7 @@ Pierce’s book is a concise treatment of category theoretical concepts oriented
 <img width="150px" align="left" src="./img/topoi-the-categorical-analysis-of-logic.jpg" />
 #+END_HTML
 
-** [[https://projecteuclid.org/euclid.bia/1403013939][Topoi: The Categorical Analysis of Logic]]
+** [[https://amzn.to/3n97rF2h9][Topoi: The Categorical Analysis of Logic]]
 *Robert Goldblatt (1984)*, 569 pages
 
 #+BEGIN_HTML
@@ -385,6 +385,8 @@ Pierce’s book is a concise treatment of category theoretical concepts oriented
 #+END_HTML
 
 This book begins from a set theorical standpoint of logic and walks the user carefully to develop an understanding of the Category theoretic perspective. Author presents the concrete examples in logic and then abstracts out the common patterns to ground it in the categorical language. I think I wouldn’t be too off if I say that this book is close to Sawyer’s A Concrete Approach to Abstract Algebra. The application of topology to logic makes it a natural segue to understanding Steven Vickers’ work mentioned below.
+
+The book is available online here: https://projecteuclid.org/euclid.bia/1403013939
 
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/category-theory-for-the-sciences.jpg" />
