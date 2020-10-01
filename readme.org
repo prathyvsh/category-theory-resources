@@ -307,11 +307,11 @@ Available as a free PDF here: http://www.math.jhu.edu/~eriehl/context.pdf
 #+END_HTML
 
 ** [[https://amzn.to/3mVREsY][An Introduction to Category Theory]]
+*Harold Simmons (2011)*, 238 pages
 #+BEGIN_HTML
 <img align="left" width="75px" src="./img/harold-simmons.png" />
 <br /><br /><br /><br />
 #+END_HTML
-Harold Simmons
 
 This is a lesser known introduction to Category Theory. But from the people who have read it, I have heard only good words about it.
 
