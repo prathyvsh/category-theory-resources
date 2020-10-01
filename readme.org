@@ -472,10 +472,8 @@ It is a bit above my level of understanding to fully articulate what this means 
 
 * Papers and Presentations
 
-[[./img/how-categories-arise-naturally.jpg]]
 ** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
 
-[[./img/an-introduction-to-category-theory-for-software-engineers.jpg]]
 ** [[http://www.cs.toronto.edu/~sme/presentations/cat101.pdf][An introduction to Category Theory for Software Engineers]]
 Steve Easterbrook
 
@@ -484,20 +482,16 @@ Bob Coecke and Eric Oliver Paquette
 
 Notes from Coecke and Paquette that introduces category theory for an interested physicist. They introduce the ideas by connecting with vector spaces and tensors.
 
-[[./img/a-categorical-manifesto.jpg]]
 ** [[https://www.cs.ox.ac.uk/files/3395/PRG72.pdf][A Categorical Manifesto]]
 Goguen
 
-[[./img/a categorical-programming-language.jpg]]
 ** [[http://web.sfc.keio.ac.jp/~hagino/thesis.pdf][A Categorical Programming Language]]
 Tatsuya Hagino
 
 * Tools
 
-[[./img/charity.jpg]]
 ** Charity
 
-[[./img/cpl-interpreter.jpg]]
 ** [[https://github.com/msakai/cpl][CPL Interpreter]]
 
 An interpreter for Tatsuya’s work above.
