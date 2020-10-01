@@ -452,8 +452,8 @@ I found out about this book accidentally when searching on Twitter for Category 
 <img width="150px" align="left" src="./img/homotopy-type-theory-cover.png" />
 #+END_HTML
 
-** [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalente Foundations of Mathematics]]
-Univalent Foundations Project, 2015
+** [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalent Foundations of Mathematics]]
+*Univalent Foundations Project, 2015*, 620 pages
 
 Homotopy came out as the result of [[https://www.ias.edu/ideas/2014/voevodsky-origins][Voevodsky’s attempt]] at trying to create an environment for theorem proving.
 
