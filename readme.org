@@ -443,6 +443,8 @@ Topology via Logic is a book that intrigued me for it showed the link between ge
 <br /><br /><br /><br /><br /><br />
 #+END_HTML
 
+I found out about this book accidentally when searching on Twitter for Category Theory related topics. Once I looked into it, I found the material addressing philosophy from a Category Theoretical standpoint. The work builds on previous works of the author and tries to identify how Category Theory gives us the visual tools to ground the ideas immanent in the work of Spinoza, Peirce, and Deleuze. It contains a rich amount of diagrams showing how category theoretical concepts allows one to locate different kinds of morphisms between different levels and across them. This is something I intend to read once I have worked myself on Peirce’s ouevre and built some amount of category theoretical fluency. But if you are into philosophy and mathematics, I recommend you check it out.
+
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/homotopy-type-theory-cover.png" />
 #+END_HTML
