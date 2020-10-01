@@ -209,6 +209,8 @@ This book is considered to be an entry level read into Category Theory. The book
 
 A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]]
 
+A course to go along with this book is available here: https://forum.azimuthproject.org/discussion/1717/welcome-to-the-applied-category-theory-course
+
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/algebra-chapter-0.png" />
 #+END_HTML
@@ -459,6 +461,12 @@ An interpreter for Tatsuya’s work above.
 ** [[https://www.youtube.com/watch?v=cJ46AOEOc14][David Spivak’s intro into Category Theory]]
 ** [[https://www.youtube.com/watch?v=BLk4DlNZkL8][Adjunctions in Everyday Life]]
 ** [[https://www.youtube.com/watch?v=JMP6gI5mLHc][Category Theory: The Essence of Interface Design]]
+
+* Blogs
+
+** https://www.math3ma.com/blog/what-is-category-theory-anyway
+** https://bartoszmilewski.com/category/category-theory/
+** https://golem.ph.utexas.edu/category/
 
 * Compilations
 
