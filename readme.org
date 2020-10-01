@@ -2,11 +2,11 @@
 
 [[./img/category-theory-cover.png]]
 
-This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory. I have only recently gotten into learning Category Theory and as a result this list is only a partial sampling of the great wealth of materials out there. Please send a [[https://twitter.com/prathyvsh][tweet]], if you think I have missed out some great work in the field in this repo.
+This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory. I have only recently gotten into learning Category Theory and as a result this list is only a partial sampling of the great wealth of materials out there. Please send a [[https://twitter.com/prathyvsh][tweet]] or a PR, if you think I have missed out some great work in the field in this repo.
 
 * Why learn Category Theory?
 
-Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas for a wide variety of domains. And the way it achieves this is by taking an abstract vantage point on the ideas, their properties, and processes in these disciplines. This viewpoint gives it the ability to reason about analogies happening in distinct domains and draw comparison across the patterns happening in them in a rigorous way.
+Category Theory is considered by many to be an involved domain of study to get into. It becomes a ground for unification of mathematical ideas for a wide variety of domains. And the way it achieves this is by taking an abstract vantage point on the ideas, their properties, and processes in these disciplines. This viewpoint gives it the ability to reason about analogies happening in distinct domains and draw rigorous analogies across the patterns happening in them in a rigorous way.
 
 This abstract viewpoint is *both a strength and weakness* of the approach. The abstract nature of the subject makes it very powerful by giving it the generality to unite very different fields of study such as say algebraic topology, probability theory, real analysis, functional analysis, number theory, combinatorics, and computation. But at the same time this abstract nature means that it becomes a rather tough endeavour to make its bearings on concrete subjects of study. It makes it hard to elucidate these without first learning enough terminology and understanding to set up a framework for discourse for the discipline under the study.
 
@@ -14,13 +14,13 @@ This abstract viewpoint is *both a strength and weakness* of the approach. The a
 <a href="https://math.ucr.edu/home/baez/rosetta.pdf"><img align="center" src="./img/rosetta-stone.png" /></a>
 #+END_HTML
 
-Category theory in certain communities of practice has moved towards being the heart of capturing the correspondences across different systems. One of the great papers that catalogues the gems from taking this vantage point is the *[[https://math.ucr.edu/home/baez/rosetta.pdf][Rosetta Stone paper]]* by John Carlos Baez and Mike Stay.
+Category theory in certain communities of practice has moved towards being the heart of capturing the correspondences across different systems under study. One of the great papers that catalogues the gems by taking this vantage point is the *[[https://math.ucr.edu/home/baez/rosetta.pdf][Rosetta Stone paper]]* by John Carlos Baez and Mike Stay.
 
 In this paper they detail how disparate domains like physics, topology, logic, and computation show strong parallels between their concepts when seen from the Category Theory viewpoint. As can be seen in the table, they point out the parallels between concepts among different domains of inquiry. Seen this way, Category Theory gives a language and a setting to talk about working concepts in different domains of inquiries and unifies them using higher level abstractions.
 
-Ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both needs to be put together in a symbiotic circle to *make each other a fertile field of knowledge and action*. Category Theory in this manner is said to be a subject whose keen study will payoff in the form of better decision-making in your day-to-day job over the long term. To articulate exactly how this is something a bit elusive to me at the moment, I am only seeing glimpses of how the concepts give me a way to talk about ideas happening in my daily programming. As I’m a learner only trying to come in terms with the deep implications Category Theory has on my work, I will need some more time to reframe this section to articulate the benefits of Category Theory in the long term.
+If you feel this is getting highly theoretical, ultimately, as Christopher Strachey put it, the divide between theory and practice is artificial and injurious. For doing computing both needs to be put together in a symbiotic circle to *make each other a fertile field of knowledge and action*. Category Theory in this manner can be said to be a subject whose keen study will payoff in the form of better decision-making in your day-to-day job over the long term. To articulate exactly how this is something a bit elusive to me at the moment, I am only seeing glimpses of how the concepts give me a way to talk about ideas happening in my daily programming. As I am a learner only trying to come in terms with the deep implications Category Theory has on my work, I will need some more time to reframe this section to articulate the benefits of Category Theory in the long term on my daily practice.
 
-So this repository is a curation of the best resources that come across my way and that has helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
+So at this moment, this repository is a curation of the best resources that were recommended to me. It also includes the ones that came across my way and those that have helped me in understanding the lay of the land better. Hope you enjoy going through it as much as I enjoyed in putting it together. Happy learning!
 
 * Introduction
 
@@ -532,4 +532,5 @@ People who have helped me with resources:
 
 - [[https://twitter.com/mimblewabe][Marek Bernát]]
 - [[Edward Ochs]]
+- [[https://twitter.com/comandingo][Johannes Drever]]
 - And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
