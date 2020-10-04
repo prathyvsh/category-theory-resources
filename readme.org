@@ -534,6 +534,6 @@ Pretty nice curation by Johannes Drever wihch includes softwares to explore Cate
 People who have helped me with resources:
 
 - [[https://twitter.com/mimblewabe][Marek Bernát]]
-- [[Edward Ochs]]
+- [[http://angg.twu.net/math-b.html][Eduardo Ochs]]
 - [[https://twitter.com/comandingo][Johannes Drever]]
 - And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
