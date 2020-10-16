@@ -190,6 +190,11 @@ Now when studying category theory, to start seeing how the pieces fit together o
 <a href="https://boris-marinov.github.io/category-theory-illustrated/"><img src="./img/boris-category-theory-illustrated.svg" /></a>
 #+END_HTML
 
+Another work, which is something I am looking forward to work out in detail after I have built up enough fluency is Eduardo Och’s internal/external diagrams. He has consistently put out some great set of works where the diagrammatic undercurrent of Category Theory is brought to the forefront. One of his recent works in this direction is: http://angg.twu.net/LATEX/2020favorite-conventions.pdf
+
+[[./img/ochs-convention1.png]]
+[[./img/ochs-convention2.png]]
+
 * Books
 
 #+BEGIN_HTML
