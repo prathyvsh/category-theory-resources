@@ -501,7 +501,6 @@ Tatsuya Hagino
 
 An interpreter for Tatsuya’s work above.
 
-
 * Talks
 
 * Series
@@ -515,6 +514,9 @@ An interpreter for Tatsuya’s work above.
 ** [[https://www.youtube.com/watch?v=JMP6gI5mLHc][Category Theory: The Essence of Interface Design]]
 
 * Blogs
+
+** [[On applications of Cateogry Theory to PL Research][https://semantic-domain.blogspot.com/2018/08/category-theory-in-pl-research.html]]
+A really nice post by Neel Krishnaswami on the applications of Category Theory to programming language research.
 
 ** https://www.math3ma.com/blog/what-is-category-theory-anyway
 ** https://bartoszmilewski.com/category/category-theory/
