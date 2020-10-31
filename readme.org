@@ -29,7 +29,7 @@ So at this moment, this repository is a curation of the best resources that were
 <img align="left" src="./img/saunders-maclane.png" />
 #+END_HTML
 
-Category Theory is a field of study that emerged around 1940s. By that time, the tangled web of inquiries in mathematics had accumulated many ideas from other fields. The inventors used Category Theory as a ground for unifying these different ideas under a common set of abstractions by studying these broad ranging ideas deeply. It was invented by *Samuel Eilenberg* and *Saunders Mac Lane* to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of naturality occuring on functors between functors (A functor is a category theoretical term that roughly means functions and the idea of naturality can very roughly be compared to the idea of talking about a concept without a given frame of reference).
+Category Theory is a field of study that emerged around 1940s. By that time, the tangled web of inquiries in mathematics had accumulated many ideas from other fields. The inventors used Category Theory as a ground for unifying these different ideas under a common set of abstractions by studying these broad ranging ideas deeply. It was introduced by *Samuel Eilenberg* and *Saunders Mac Lane* to study algebraic topology, where they wanted to introduce the idea of natural transformation to make tractable the idea of naturality occuring on functors between functors (A functor is a category theoretical term that roughly means functions and the idea of naturality can very roughly be compared to the idea of talking about a concept without a given frame of reference).
 
 #+BEGIN_HTML
 <br />
