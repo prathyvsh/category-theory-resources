@@ -536,6 +536,8 @@ A really good roundup of resources for learning Category Theory
 ** [[https://github.com/drever/act-munich][Applied Category Theory Munich]]
 Pretty nice curation by Johannes Drever which includes softwares to explore Category Theory and podcasts for being in the know.
 
+** [[https://wiki.portal.chalmers.se/cse/pmwiki.php/CTFP11/CTFP11][Resources from Chalmers University]]
+
 * Contributors
 
 People who have helped me with resources:
