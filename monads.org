@@ -1,0 +1,29 @@
+* Monad Tutorials
+
+A catalog of tutorials written on monads. Feel free to do a PR/raise an issue if you know of any stellar tutorials on it.
+
+** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads]]
+Garlandus (2018)
+
+A good tutorial that first introduces group theory and algebraic structures before delving into the details on monads.
+This way, a somewhat natural progression can be seen on how the ideas got motivated and emerged into Category Theory.
+The part about duals and natural transformations are well written.
+
+** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.)]]
+*** Dan Piponi (2006)
+
+** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad?]]
+*** Turtles Turtles Turtles (2019)
+
+** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads]]
+***  Dan Piponi (2008)
+
+** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read]]
+*** James Coglan (2011)
+
+** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers]]
+Paul Shen (2020)
+
+** Surveys
+
+*** [[https://wiki.haskell.org/Monad_tutorials_timeline][Monad Tutorial Timeline]]
