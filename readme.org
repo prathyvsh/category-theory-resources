@@ -515,6 +515,10 @@ An interpreter for Tatsuya’s work above.
 
 * Blogs
 
+** [[http://chalkdustmagazine.com/features/an-invitation-to-category-theory/][An Invitation to Category Theory]]
+
+A brief introductory post by Tai-Danae Bradley on Category Theory
+
 ** [[On applications of Cateogry Theory to PL Research][https://semantic-domain.blogspot.com/2018/08/category-theory-in-pl-research.html]]
 A really nice post by Neel Krishnaswami on the applications of Category Theory to programming language research.
 
