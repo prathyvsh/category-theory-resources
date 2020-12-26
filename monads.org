@@ -24,6 +24,9 @@ The part about duals and natural transformations are well written.
 ** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers]]
 Paul Shen (2020)
 
+** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures]]
+Aditya Bargava’s visual introduction to functional programming concepts
+
 ** Surveys
 
 *** [[https://wiki.haskell.org/Monad_tutorials_timeline][Monad Tutorial Timeline]]
