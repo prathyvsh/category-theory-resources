@@ -27,6 +27,9 @@ Paul Shen (2020)
 ** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures]]
 Aditya Bargava’s visual introduction to functional programming concepts
 
+** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified]]
+Josh Haberman
+
 ** Surveys
 
 *** [[https://wiki.haskell.org/Monad_tutorials_timeline][Monad Tutorial Timeline]]
