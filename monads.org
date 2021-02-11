@@ -5,6 +5,8 @@
 *** [[http://www.tomharding.me/2016/11/03/monoid-est-tonoid/][Monoid Est Ton Oid]]
 A neat tutorial that introduces how monoids can be used to make code with reduce/fold operation cleaner.
 
+*** [[https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html][Comonads, Monoids, and Trees]]
+
 ** Monads
 
 A catalog of tutorials written on monads. Feel free to do a PR/raise an issue if you know of any stellar tutorials on it.
