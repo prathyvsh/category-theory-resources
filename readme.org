@@ -493,6 +493,8 @@ Goguen
 ** [[http://web.sfc.keio.ac.jp/~hagino/thesis.pdf][A Categorical Programming Language]]
 Tatsuya Hagino
 
+** [[https://github.com/mattearnshaw/lawvere][Collected Works of William Lawvere]]
+
 * Tools
 
 ** Charity
