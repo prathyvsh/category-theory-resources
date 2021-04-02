@@ -216,6 +216,8 @@ A free electronic edition is available here: [[https://arxiv.org/abs/1803.05316]
 
 A course to go along with this book is available here: https://forum.azimuthproject.org/discussion/1717/welcome-to-the-applied-category-theory-course
 
+Video lectures for this book are available here: https://youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5
+
 #+BEGIN_HTML
 <img width="150px" align="left" src="./img/algebra-chapter-0.png" />
 #+END_HTML
