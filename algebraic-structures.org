@@ -7,6 +7,12 @@ A neat tutorial that introduces how monoids can be used to make code with reduce
 
 *** [[https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html][Comonads, Monoids, and Trees]]
 
+*** [[http://ozark.hendrix.edu/~yorgey/pub/monoid-pearl.pdf][Monoid: Themes and Variations (Functional Pearl)]]
+Brent Yorgey
+
+*** [[blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html][Haskell Monoids and Their Uses]]
+Dan Piponi
+
 ** Monads
 
 A catalog of tutorials written on monads. Feel free to do a PR/raise an issue if you know of any stellar tutorials on it.
