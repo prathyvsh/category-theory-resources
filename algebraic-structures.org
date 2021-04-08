@@ -45,6 +45,14 @@ Aditya Bargava’s visual introduction to functional programming concepts
 ** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified]]
 Josh Haberman
 
+** Talks
+
+*** [[https://www.youtube.com/watch?v=YScIPA8RbVE][The Algebra of Algebraic Types]]
+Chris Taylor (2012)
+
+*** [[https://www.youtube.com/watch?v=4IPXSj5NVxQ][Abstract Algebras And Where to Find Them: Magmas, Monoids, and More!]]
+Reid Evans (2018)
+
 ** Surveys
 
 *** [[https://wiki.haskell.org/Monad_tutorials_timeline][Monad Tutorial Timeline]]
