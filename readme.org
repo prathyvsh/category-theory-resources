@@ -546,6 +546,8 @@ Pretty nice curation by Johannes Drever which includes softwares to explore Cate
 
 ** [[https://wiki.portal.chalmers.se/cse/pmwiki.php/CTFP11/CTFP11][Resources from Chalmers University]]
 
+** [[Category Theoretic Approaches to Machine Learning][https://github.com/bgavran/Category_Theory_Machine_Learning/blob/master/README.md]]
+
 * Contributors
 
 People who have helped me with resources:
