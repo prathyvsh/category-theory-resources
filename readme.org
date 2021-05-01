@@ -523,7 +523,7 @@ An interpreter for Tatsuya’s work above.
 
 A brief introductory post by Tai-Danae Bradley on Category Theory
 
-** [[On applications of Cateogry Theory to PL Research][https://semantic-domain.blogspot.com/2018/08/category-theory-in-pl-research.html]]
+** [[https://semantic-domain.blogspot.com/2018/08/category-theory-in-pl-research.html][On applications of Cateogry Theory to PL Research]]
 A really nice post by Neel Krishnaswami on the applications of Category Theory to programming language research.
 
 ** https://www.math3ma.com/blog/what-is-category-theory-anyway
