@@ -50,7 +50,7 @@ Josh Haberman
 *** Comonads as Spaces (2016)
 https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html
 
-*** From Declarative UIs to Comonadic UIs
+*** From Declarative UIs to Comonadic UIs (2018)
 https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis
 
 ** Talks
