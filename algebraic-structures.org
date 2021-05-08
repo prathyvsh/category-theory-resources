@@ -1,53 +1,53 @@
 * Algebraic Structures Tutorials
 
+A catalog of tutorials written on algebraic structures. Feel free to do a PR/raise an issue if you know of any stellar tutorials on it.
+
 ** Monoids
 
-*** [[http://www.tomharding.me/2016/11/03/monoid-est-tonoid/][Monoid Est Ton Oid]]
+*** [[http://www.tomharding.me/2016/11/03/monoid-est-tonoid/][Monoid Est Ton Oid (2016)]]
 A neat tutorial that introduces how monoids can be used to make code with reduce/fold operation cleaner.
 
-*** [[https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html][Comonads, Monoids, and Trees]]
+*** [[https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html][Comonads, Monoids, and Trees (2015)]]
 
-*** [[http://ozark.hendrix.edu/~yorgey/pub/monoid-pearl.pdf][Monoid: Themes and Variations (Functional Pearl)]]
+*** [[http://ozark.hendrix.edu/~yorgey/pub/monoid-pearl.pdf][Monoid: Themes and Variations (Functional Pearl) (2012)]]
 Brent Yorgey
 
-*** [[https://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html][Haskell Monoids and Their Uses]]
+*** [[https://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html][Haskell Monoids and Their Uses (2009)]]
 Dan Piponi
 
 ** Monads
 
-A catalog of tutorials written on monads. Feel free to do a PR/raise an issue if you know of any stellar tutorials on it.
-
-** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads]]
-Garlandus (2018)
+** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads (2018)]]
+Garlandus
 
 A good tutorial that first introduces group theory and algebraic structures before delving into the details on monads.
 This way, a somewhat natural progression can be seen on how the ideas got motivated and emerged into Category Theory.
 The part about duals and natural transformations are well written.
 
-** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.)]]
+** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.) (2006)]]
 *** Dan Piponi (2006)
 
-** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad?]]
-*** Turtles Turtles Turtles (2019)
+** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad? (2019)]]
+*** Turtles Turtles Turtles
 
-** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads]]
-***  Dan Piponi (2008)
+** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads (2008)]]
+***  Dan Piponi
 
-** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read]]
-*** James Coglan (2011)
+** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read (2011)]]
+*** James Coglan
 
-** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers]]
-Paul Shen (2020)
+** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers (2020)]]
+Paul Shen
 
-** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures]]
+** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures (2013)]]
 Aditya Bargava’s visual introduction to functional programming concepts
 
-** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified]]
+** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified (2015)]]
 Josh Haberman
 
 ** Comonads
 
-*** Comonads as Spaces
+*** Comonads as Spaces (2016)
 https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html
 
 *** From Declarative UIs to Comonadic UIs
@@ -55,11 +55,11 @@ https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis
 
 ** Talks
 
-*** [[https://www.youtube.com/watch?v=YScIPA8RbVE][The Algebra of Algebraic Types]]
-Chris Taylor (2012)
+*** [[https://www.youtube.com/watch?v=YScIPA8RbVE][The Algebra of Algebraic Types (2012)]]
+Chris Taylor
 
-*** [[https://www.youtube.com/watch?v=4IPXSj5NVxQ][Abstract Algebras And Where to Find Them: Magmas, Monoids, and More!]]
-Reid Evans (2018)
+*** [[https://www.youtube.com/watch?v=4IPXSj5NVxQ][Abstract Algebras And Where to Find Them: Magmas, Monoids, and More! (2018)]]
+Reid Evans
 
 ** Surveys
 
