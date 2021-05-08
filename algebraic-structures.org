@@ -45,6 +45,14 @@ Aditya Bargava’s visual introduction to functional programming concepts
 ** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified]]
 Josh Haberman
 
+** Comonads
+
+*** Comonads as Spaces
+https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html
+
+*** From Declarative UIs to Comonadic UIs
+https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis
+
 ** Talks
 
 *** [[https://www.youtube.com/watch?v=YScIPA8RbVE][The Algebra of Algebraic Types]]
