@@ -17,32 +17,32 @@ Dan Piponi
 
 ** Monads
 
-** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads (2018)]]
-Garlandus
+*** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads (2018)]]
+*** Garlandus
 
 A good tutorial that first introduces group theory and algebraic structures before delving into the details on monads.
 This way, a somewhat natural progression can be seen on how the ideas got motivated and emerged into Category Theory.
 The part about duals and natural transformations are well written.
 
-** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.) (2006)]]
-*** Dan Piponi (2006)
+*** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.) (2006)]]
+*** Dan Piponi
 
-** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad? (2019)]]
+*** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad? (2019)]]
 *** Turtles Turtles Turtles
 
-** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads (2008)]]
+*** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads (2008)]]
 ***  Dan Piponi
 
-** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read (2011)]]
+*** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read (2011)]]
 *** James Coglan
 
-** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers (2020)]]
+*** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers (2020)]]
 Paul Shen
 
-** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures (2013)]]
+*** [[https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html][Functors, Applicatives, and Monads in Pictures (2013)]]
 Aditya Bargava’s visual introduction to functional programming concepts
 
-** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified (2015)]]
+*** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified (2015)]]
 Josh Haberman
 
 ** Comonads
