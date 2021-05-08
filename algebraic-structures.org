@@ -47,11 +47,11 @@ Josh Haberman
 
 ** Comonads
 
-*** Comonads as Spaces (2016)
-https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html
+*** [[https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html][Comonads as Spaces (2016)]]
+Phil Freeman
 
-*** From Declarative UIs to Comonadic UIs (2018)
-https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis
+*** [[https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis][From Declarative UIs to Comonadic UIs (2018)]]
+C.T. Wu
 
 ** Talks
 
