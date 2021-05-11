@@ -15,8 +15,8 @@ Brent Yorgey
 *** [[https://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html][Haskell Monoids and Their Uses (2009)]]
 Dan Piponi
 
-*** [[https://free.cofree.io/2017/12/27/free/][Free Monoids and Free Monads, Free of Category Theory]]
-Ziyang Liu (2017)
+*** [[https://free.cofree.io/2017/12/27/free/][Free Monoids and Free Monads, Free of Category Theory (2017)]]
+Ziyang Liu
 
 ** Monads
 
@@ -48,8 +48,8 @@ Aditya Bargava’s visual introduction to functional programming concepts
 *** [[https://blog.reverberate.org/2015/08/monads-demystified.html][Monads Demystified (2015)]]
 Josh Haberman
 
-*** [[https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html][Monads as Graphs]]
-Neil Mitchell (2019)
+*** [[https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html][Monads as Graphs (2019)]]
+Neil Mitchell
 
 ** Comonads
 
