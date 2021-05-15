@@ -18,6 +18,9 @@ Dan Piponi
 *** [[https://free.cofree.io/2017/12/27/free/][Free Monoids and Free Monads, Free of Category Theory (2017)]]
 Ziyang Liu
 
+*** [[https://oleksandrmanzyuk.wordpress.com/2014/08/09/transducers-are-monoid-homomorphisms/][Monoidal transducers are monoidal homomorphisms (2014)]]
+Oleksandr Manzyuk
+
 ** Monads
 
 *** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads (2018)]]
