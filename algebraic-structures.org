@@ -54,6 +54,9 @@ Josh Haberman
 *** [[https://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html][Monads as Graphs (2019)]]
 Neil Mitchell
 
+*** [[https://danghica.blogspot.com/2018/07/haskell-if-monads-are-solution-what-is.html][If monads are the solution, what is the problem? (2018)]]
+Dan Ghica
+
 ** Comonads
 
 *** [[https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html][Comonads as Spaces (2016)]]
