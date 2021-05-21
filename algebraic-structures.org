@@ -57,6 +57,8 @@ Neil Mitchell
 *** [[https://danghica.blogspot.com/2018/07/haskell-if-monads-are-solution-what-is.html][If monads are the solution, what is the problem? (2018)]]
 Dan Ghica
 
+A nice article that outlines how monads can be used both at the meta-language level and object-language level. Also, addresses how Moggi’s framework was adapted to Haskell and the nuances of evaluation strategies Haskell has when adopting monads along with lazy evaluation.
+
 ** Comonads
 
 *** [[https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html][Comonads as Spaces (2016)]]
