@@ -59,6 +59,12 @@ Dan Ghica
 
 A nice article that outlines how monads can be used both at the meta-language level and object-language level. Also, addresses how Moggi’s framework was adapted to Haskell and the nuances of evaluation strategies Haskell has when adopting monads along with lazy evaluation.
 
+*** [[https://www.diva-portal.org/smash/get/diva2:1369286/FULLTEXT01.pdf][Monads in Haskell and Category Theory (2019)]]
+Samuel Grahn
+
+*** [[https://www.stephendiehl.com/posts/monads.html][Monads made hard (2017)]]
+Stephen Diehl
+
 ** Comonads
 
 *** [[https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html][Comonads as Spaces (2016)]]
