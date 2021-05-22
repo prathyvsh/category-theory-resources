@@ -65,6 +65,9 @@ Samuel Grahn
 *** [[https://www.stephendiehl.com/posts/monads.html][Monads made hard (2017)]]
 Stephen Diehl
 
+*** [[https://web.archive.org/web/20120114225257/http://ertes.de/articles/monads.html][Understanding Haskell Monads (2008)]]
+Ertugrul Söylemez
+
 ** Comonads
 
 *** [[https://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html][Comonads as Spaces (2016)]]
