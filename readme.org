@@ -548,6 +548,9 @@ Pretty nice curation by Johannes Drever which includes softwares to explore Cate
 
 ** [https://github.com/bgavran/Category_Theory_Machine_Learning/blob/master/README.md][Category Theoretic Approaches to Machine Learning][]
 
+** [[https://blog.metatheorem.org/published/2015-12-06-Resources-CT-CS.html][Resources for Category Theory for Computer Science]]
+Resources compiled by Harley Eades III
+
 * Contributors
 
 People who have helped me with resources:
