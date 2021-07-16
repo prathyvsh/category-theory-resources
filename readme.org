@@ -216,6 +216,9 @@ Category Theory has nouns (objects), verbs (morphisms), associative law, and com
 With Category Theory, we are moving into a setting where the duality between nouns and verbs find a rigorous expression. That being the case, it might came as no surprise that there is something called Categorical logic which attempts to ground linguistic phenomena and natural language grammar in a category theoretical setting.
 
 TODO: Briefly sketch the work of people using Category Theory for linguistics.
+These might be helpful:
+- [[https://publish.uwo.ca/~jbell/catlogprime.pdf][The Development of Categorical Logic]]
+- [[https://www.webdepot.umontreal.ca/Usagers/marquisj/MonDepotPublic/HistofCatLog.pdf][The History of Categorical Logic 1963-1977]]
 
 TODO: Document how Category Theory becomes an apt setting to study processes. Might also be helpful to outline how Whitehead’s process theory and adjacent fields are finding expression in this field.
 
