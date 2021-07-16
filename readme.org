@@ -195,6 +195,30 @@ Another work, which is something I am looking forward to work out in detail afte
 [[./img/ochs-convention1.png]]
 [[./img/ochs-convention2.png]]
 
+* Some notes on Category Theory
+
+** As a unifying field
+
+Category theory becomes a setting from which you can understand the connection between various mathematical objects that come couched in the contingent scaffolding of a particular theory. Category Theory allows one to map out the structure preserving mappings of a theory’s connection or morphism to other theoretical settings. These mappings go by the name of various “morphisms”, common ones being homomorphism and isomorphism i.e. partial/total equivalent representations of a source representation to a target representation. By adopting such an approach, Category Theory acts as a tool of knowlege transfer and as a medium that helps transfer conceptual knowledge among disparate domains in mathematics.
+
+TODO: List some domains which are far removed at a cursory glance, but is brought together with Category Theory.
+
+TODO: In some sense, this metamathematical outlook seems to derive from topology where connection between two spaces are talked about and how one is the other but modulo some property. Elaborate and integrate this idea into this prose.
+
+** Category theory as emphasizing morphisms rather than objects
+
+Set theory is seen as a canonical extensional setting where one-to-one correspondence between different mathematical objects is established. Category Theory shifts this focus from elements of the set or any particular theory and asks about what kind of connections exist between two different mathematical structures. This approach gains more patency as we move towards an algebraic approach where mathematical objects are determined and understood by the network of relationships they enjoy with other objects. A mathematical object in Category Theory gets defined as the sum total of network of relations that object is involved with others. I can't help but feel that this is a crystallization of the idea of manifolds as devised by Bernhard Riemann polished to a fine theoretical setting.
+
+** Elements of Category Theory
+
+Category Theory has nouns (objects), verbs (morphisms), associative law, and composition. Using these basic properties as the primitives, it generates templates with which we can package mathematical objects of arbitrary complexities.
+
+With Category Theory, we are moving into a setting where the duality between nouns and verbs find a rigorous expression. That being the case, it might came as no surprise that there is something called Categorical logic which attempts to ground linguistic phenomena and natural language grammar in a category theoretical setting.
+
+TODO: Briefly sketch the work of people using Category Theory for linguistics.
+
+TODO: Document how Category Theory becomes an apt setting to study processes. Might also be helpful to outline how Whitehead’s process theory and adjacent fields are finding expression in this field.
+
 * Books
 
 #+BEGIN_HTML
