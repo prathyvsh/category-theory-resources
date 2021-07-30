@@ -203,17 +203,26 @@ Category theory becomes a setting from which you can understand the connection b
 
 TODO: List some domains which are far removed at a cursory glance, but is brought together with Category Theory.
 
-TODO: In some sense, this metamathematical outlook seems to derive from topology where connection between two spaces are talked about and how one is the other but modulo some property. Elaborate and integrate this idea into this prose.
-
 ** Category theory as emphasizing morphisms rather than objects
 
-Set theory is seen as a canonical extensional setting where one-to-one correspondence between different mathematical objects is established. Category Theory shifts this focus from elements of the set or any particular theory and asks about what kind of connections exist between two different mathematical structures. This approach gains more patency as we move towards an algebraic approach where mathematical objects are determined and understood by the network of relationships they enjoy with other objects. A mathematical object in Category Theory gets defined as the sum total of network of relations that object is involved with others. I can't help but feel that this is a crystallization of the idea of manifolds as devised by Bernhard Riemann polished to a fine theoretical setting.
+Set theory is seen as a canonical extensional setting where one-to-one correspondence between different mathematical objects is established. Category Theory shifts this focus from elements of the set or any particular theory and asks about what kind of connections exist between two different mathematical structures. This approach gains more patency as we move towards an algebraic approach where mathematical objects are determined and understood by the network of relationships they enjoy with other objects. The idea when operating in Category Theory is that the structure of a mathematical object is sought in the network of relationships it enjoys with other structures of the same kind. These connections are characterized by the morphisms and natural transformations the structure partakes in. A mathematical object in Category Theory gets defined as the sum total of network of relations that object is involved with others. In some sense, this metamathematical outlook seems to derive from topology where connection between two spaces are talked about and how one is the other but modulo some property.
+
+TODO: Elaborate and integrate this idea into this prose. I can't help but feel that this is a crystallization of the idea of manifolds as devised by Bernhard Riemann polished to a fine theoretical setting.
 
 ** Elements of Category Theory
 
-Category Theory has nouns (objects), verbs (morphisms), associative law, and composition. Using these basic properties as the primitives, it generates templates with which we can package mathematical objects of arbitrary complexities.
+Category Theory has nouns (objects), verbs (morphisms), associative law, and composition. Using these basic properties as the primitives, it generates templates with which we can package mathematical objects of arbitrary complexities. Objects of a category are the instances of a certain associated form and transformation between these instances are "morphisms" which preserve the structure of these instances in some specified way.
 
-With Category Theory, we are moving into a setting where the duality between nouns and verbs find a rigorous expression. That being the case, it might came as no surprise that there is something called Categorical logic which attempts to ground linguistic phenomena and natural language grammar in a category theoretical setting.
+** Comparison with set theory
+Since a lot of modern mathematics since 1900s was developed using set theory, Category theory assimilates these results by talking about the category of sets. But it is not limited to this vantage point. Categories provide a way to interpret concepts within a category relationally without the need for set theory to back it up.
+
+There is also a way in which Category Theory shows affinity with Synthetic Differential Geometry / Smooth Infinitesimal analysis thereby providing a setting in which continuous concepts can be grounded using this theory.
+
+TODO: Learn more about the relationship between sets and category theory and present a concrete instance where they display pros/cons.
+
+** Category Theory and Linguistics
+
+With Category Theory, we are moving into a setting where the duality between nouns and verbs find a rigorous expression. That being the case, it might come as no surprise that there is something called Categorical logic which attempts to ground linguistic phenomena and natural language grammar in a category theoretical setting.
 
 TODO: Briefly sketch the work of people using Category Theory for linguistics.
 These might be helpful:
