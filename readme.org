@@ -582,7 +582,11 @@ Pretty nice curation by Johannes Drever which includes softwares to explore Cate
 
 ** [[https://wiki.portal.chalmers.se/cse/pmwiki.php/CTFP11/CTFP11][Resources from Chalmers University]]
 
-** [https://github.com/bgavran/Category_Theory_Machine_Learning/blob/master/README.md][Category Theoretic Approaches to Machine Learning][]
+** [https://github.com/bgavran/Category_Theory_Machine_Learning/blob/master/README.md][Category Theoretic Approaches to Machine Learning]]
+Curation of materials on Category Theory as it applies to Machine Learning
+
+** [[https://diliberti.github.io/Read/Read.html][Suggested readings on Category Theory and Categorical Logic]]
+A curated collection of materials on category theory and categorical logic designed for bachelors and masters students who want to have a first encounter with these topics.
 
 ** [[https://blog.metatheorem.org/published/2015-12-06-Resources-CT-CS.html][Resources for Category Theory for Computer Science]]
 Resources compiled by Harley Eades III
