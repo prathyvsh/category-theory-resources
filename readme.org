@@ -512,6 +512,9 @@ It is a bit above my level of understanding to fully articulate what this means 
 
 *** [[http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html][Abstract and Concrete Categories: The Joy of Cats]]
 
+** [[https://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
+Peter Smith (2018)
+
 * Papers and Presentations
 
 ** [[https://people.cs.clemson.edu/~steve/Papers/Rosetta/rosetta1.pdf][Category Theory — Rosetta Paper 1: How Categories Arise Naturally]]
