@@ -47,6 +47,8 @@ If you enjoy reading the history of the subject before diving into it, I highly 
 
 Now, seeing that the subject emerged from algebraic topology, the application to Computer Science may seem arbitrary. But this came after deep investigations into computational structures and programming since around 1960s, where multiple links between algebra, automata, computational control/data structures, recursion schemes were unearthed. If you are interested in knowing about it more deeply, I have a [[https://github.com/prathyvsh/morphisms-of-computational-structures][repo]], which is a work in progress, where I try to unravel these links. A curious fact that I have to mention is that, one of the co-inventors of Category Theory, Samuel Eilenberg, went on to apply his ideas to automata after inventing Category Theory!
 
+A nice recent article is penned by Emily Riehl showing how ∞-categories act as a great foundation for mathematics [[https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/][up here]]. It is written in an accessible manner to give a bird’s eye view of the whole field showing how it interconnects with other mathematical fields.
+
 Now that we have seen how Category Theory came around, let us look at the resources that can guide us in building a working knowledge of the subject.
 
 * Overview
