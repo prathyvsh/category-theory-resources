@@ -24,23 +24,23 @@ Oleksandr Manzyuk
 ** Monads
 
 *** [[https://garlandus.co/OfGroupsAndMonads.html][Of Groups and Monads (2018)]]
-*** Garlandus
+Garlandus
 
 A good tutorial that first introduces group theory and algebraic structures before delving into the details on monads.
 This way, a somewhat natural progression can be seen on how the ideas got motivated and emerged into Category Theory.
 The part about duals and natural transformations are well written.
 
 *** [[http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html][You Could Have Invented Monads! (And Maybe You Already Have.) (2006)]]
-*** Dan Piponi
+Dan Piponi
 
 *** [[http://madjestic.github.io/posts/2019-01-19-a-monad-tutorial.html][What is Monad? (2019)]]
-*** Turtles Turtles Turtles
+Turtles Turtles Turtles
 
 *** [[http://blog.sigfpe.com/2008/11/from-monoids-to-monads.html][From monoids to monads (2008)]]
-***  Dan Piponi
+Dan Piponi
 
 *** [[https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/][Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read (2011)]]
-*** James Coglan
+James Coglan
 
 *** [[https://bypaulshen.com/posts/monads-for-javascript-developers/][Monads for Javascript Developers (2020)]]
 Paul Shen
@@ -76,6 +76,29 @@ Phil Freeman
 *** [[https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis][From Declarative UIs to Comonadic UIs (2018)]]
 C.T. Wu
 
+** Semirings
+
+*** [[http://web.archive.org/web/20200624153748if_/http://stedolan.net/research/semirings.pdf][Fun With Semirings (2013)]]
+Stephen Dolan
+
+[[http://web.archive.org/web/20191113070416if_/http://stedolan.net:80/research/semirings-slides.pdf][Slides]]
+
+** Lattices
+
+*** [[https://www.youtube.com/watch?v=Xuxm929tIRY][Formal Concept Analysis: A Useful Example of Modern Mathematics]]
+Bernhard Ganter (2015)
+
+** Blogposts
+
+*** [[https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/][Algebraic Structures: Things I Wished Someone Had Explained About Functional Programming (2019)]]
+
+James Sinclair
+
+*** [[http://www.tomharding.me/fantasy-land/][Fantas, Eel, and Specification (2017)]]
+Tom Harding
+
+A series of posts written to explore and explain the Fantasy Land JavaScript specification, and to introduce some concepts of functional programming.
+
 ** Talks
 
 *** [[https://www.youtube.com/watch?v=YScIPA8RbVE][The Algebra of Algebraic Types (2012)]]
@@ -83,6 +106,23 @@ Chris Taylor
 
 *** [[https://www.youtube.com/watch?v=4IPXSj5NVxQ][Abstract Algebras And Where to Find Them: Magmas, Monoids, and More! (2018)]]
 Reid Evans
+
+** Books
+
+*** [[http://elementsofprogramming.com/][Elements of Programming (2009)]]
+Alexander Stepanov and Paul McJones
+
+A book that details about the algebraic structures that were leveraged in the creation of C++ standard library
+
+*** [[https://math.hawaii.edu/~ralph/Classes/619/univ-algebra.pdf][A Course in Universal Algebra (1981)]]
+H. P. Sankappanavar and Stanley Burris
+
+An introductory book to universal algebra
+
+** Products
+
+*** [[http://www.mm-adt.org/][mmADT]] / [[https://zenodo.org/record/2565243][Stream Ring Theory]]
+Marko Rodriguez
 
 ** Surveys
 
