@@ -621,11 +621,16 @@ John Baez
 November 2019
 50 pages
 
-** Jules/Matteo/Gill Open Games
+** Jules/Matteo/Gill/Bruno Open Games
 
 - [[https://julesh.com/2017/09/29/a-first-look-at-open-games/][A first look at open games]]
 Jules Hedges
 September 2017
+Blogpost
+
+- [[https://matteocapucci.wordpress.com/2021/05/26/open-cybernetics-systems-i-feedback-systems-as-optics/][Open Cybernetics Systems I: Feedback Systems as Optics]]
+Matteo Capucci
+May 2021
 Blogpost
 
 - [[https://arxiv.org/pdf/1603.04641.pdf][Compositional Game Theory]]
