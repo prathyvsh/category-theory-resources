@@ -605,37 +605,56 @@ Some of the interesting works in this direction are:
 
 ** Generative effects / Emergence
 
-- [[http://www.mit.edu/~eadam/eadam_PhDThesis.pdf][Systems, Generativity, and Interactional Effects (2017)]]
+- [[http://www.mit.edu/~eadam/eadam_PhDThesis.pdf][Systems, Generativity, and Interactional Effects]]
+
+Elie Adam
+
 2017
+
 294 pages
 
 ** Courser/Baez Double Categorical approach
 
 - [[https://arxiv.org/pdf/2008.02394.pdf][Open Systems: A Double Categorical Approach]]
+
 Kenny Courser
+
 March 2020
+
 183 pages
 
 - [[https://arxiv.org/abs/1911.04630][Structured Cospans]]
+
 John Baez
+
 November 2019
+
 50 pages
 
-** Jules/Matteo/Gill/Bruno Open Games
+** Open Games
 
 - [[https://julesh.com/2017/09/29/a-first-look-at-open-games/][A first look at open games]]
+
 Jules Hedges
+
 September 2017
+
 Blogpost
 
 - [[https://matteocapucci.wordpress.com/2021/05/26/open-cybernetics-systems-i-feedback-systems-as-optics/][Open Cybernetics Systems I: Feedback Systems as Optics]]
+
 Matteo Capucci
+
 May 2021
+
 Blogpost
 
 - [[https://arxiv.org/pdf/1603.04641.pdf][Compositional Game Theory]]
+
 Neil Ghani, Jules Hedges, Viktor Winschel, Philipp Zahn
+
 February 2018
+
 10 pages
 
 - [[https://arxiv.org/abs/1902.08666][From open learners to open games]]
@@ -643,11 +662,14 @@ Jules Hedges
 February 2019
 9 pages
 
-** Fong’s Algebra of Open and Interconnected Systems
+** Algebra of Open and Interconnected Systems
 
 - [[https://arxiv.org/pdf/1609.05382.pdf][The Algebra of Open and Interconnected Systems]]
+
 Brendan Fong
+
 September 2016
+
 230 pages
 
 * Contributors
@@ -657,4 +679,5 @@ People who have helped me with resources:
 - [[https://twitter.com/mimblewabe][Marek Bernát]]
 - [[http://angg.twu.net/math-b.html][Eduardo Ochs]]
 - [[https://twitter.com/comandingo][Johannes Drever]]
+- [[https://twitter.com/HarmonicesMvndi][Mundy Reimer]]
 - And a lot of people who were generous enough to share their recommendations on Reddit / Stackoverflow / Twitter / Quora
