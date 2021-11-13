@@ -595,6 +595,56 @@ A curated collection of materials on category theory and categorical logic desig
 ** [[https://blog.metatheorem.org/published/2015-12-06-Resources-CT-CS.html][Resources for Category Theory for Computer Science]]
 Resources compiled by Harley Eades III
 
+* Category Theory ∩ Open Systems
+
+There are some interesting lines of work unfolding where category theory is illuminating how open systems interact with each other.
+
+An introduction to this can be found at [[https://www.brown.edu/academics/math/sites/math/files/O.Lynch%20thesis.pdf][Open Systems for the Working Mathematician]]
+
+Some of the interesting works in this direction are:
+
+** Generative effects / Emergence
+
+- [[http://www.mit.edu/~eadam/eadam_PhDThesis.pdf][Systems, Generativity, and Interactional Effects (2017)]]
+2017
+294 pages
+
+** Courser/Baez Double Categorical approach
+
+- [[https://arxiv.org/pdf/2008.02394.pdf][Open Systems: A Double Categorical Approach]]
+Kenny Courser
+March 2020
+183 pages
+
+- [[https://arxiv.org/abs/1911.04630][Structured Cospans]]
+John Baez
+November 2019
+50 pages
+
+** Jules/Matteo/Gill Open Games
+
+- [[https://julesh.com/2017/09/29/a-first-look-at-open-games/][A first look at open games]]
+Jules Hedges
+September 2017
+Blogpost
+
+- [[https://arxiv.org/pdf/1603.04641.pdf][Compositional Game Theory]]
+Neil Ghani, Jules Hedges, Viktor Winschel, Philipp Zahn
+February 2018
+10 pages
+
+- [[https://arxiv.org/abs/1902.08666][From open learners to open games]]
+Jules Hedges
+February 2019
+9 pages
+
+** Fong’s Algebra of Open and Interconnected Systems
+
+- [[https://arxiv.org/pdf/1609.05382.pdf][The Algebra of Open and Interconnected Systems]]
+Brendan Fong
+September 2016
+230 pages
+
 * Contributors
 
 People who have helped me with resources:
