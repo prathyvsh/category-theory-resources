@@ -15,6 +15,10 @@ Brent Yorgey
 *** [[https://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html][Haskell Monoids and Their Uses (2009)]]
 Dan Piponi
 
+*** [[https://fsharpforfunandprofit.com/posts/monoids-without-tears/][Monoids without Tears (2013)]]
+Scott Wlaschin
+A series on monoids
+
 *** [[https://free.cofree.io/2017/12/27/free/][Free Monoids and Free Monads, Free of Category Theory (2017)]]
 Ziyang Liu
 
