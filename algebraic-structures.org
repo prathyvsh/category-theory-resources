@@ -80,6 +80,9 @@ Phil Freeman
 *** [[https://speakerdeck.com/wuct/from-declarative-uis-to-comonadic-uis][From Declarative UIs to Comonadic UIs (2018)]]
 C.T. Wu
 
+*** [[https://arthurxavierx.github.io/ComonadsForUIs.pdf][Comonads for UIs]]
+Arthur Xavier
+
 ** Semirings
 
 *** [[http://web.archive.org/web/20200624153748if_/http://stedolan.net/research/semirings.pdf][Fun With Semirings (2013)]]
