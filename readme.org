@@ -162,6 +162,31 @@ Once the above works are studied, starting with Category Theory texts should be 
 
 Category Theory is the study of objects and morphisms and for this purpose, I find it most important to have a visual setting for exploring these ideas. Many of the ideas being talked about in Category Theory spawns dynamic pictures of morphisms in my head, but I find it hard to visualize them as there is so little Category Theory with pictures around. What is pictured here is an animation by James McKeown of a modular lattice rotating on its vertical axis. These sort of algebraic structures are a part of what we study with Category Theory. And I think there is a certain truth to the idea that geometry is the missing link to ground the abstract ideas that is being studied under Category Theory.
 
+In the orientation section of [[https://raw.githubusercontent.com/mattearnshaw/lawvere/master/pdfs/1996-grassmans-dialectics-and-category-theory.pdf][the paper by Lawvere on Grassman’s mathematical work]] there is a really nice paragraph on the significance of category theory and how it functions as an instrument of analysis and dialecting by serving as a “universal geometric calculus”:
+
+
+#+BEGIN_HTML
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<blockquote>
+<p>
+Grassman in his philosophical introduction describes the two-fold division of formal sciences, that is, the science of thinking, into dialectics and matheamtics. He briefly ddescribes dialectics as seeking the unity in all things, and he describes mathematics as the art and practice of taking each thought in its particularity and pursuing it to the end. There is a need for an instrument which will guide students to follow in a unified way both of these activities, passing from the general to the particular and from the particular to the general.
+</p>
+
+<img src="./mathematics-dialectics.png" alt="Image showing how mathematics takes the particular to the general and dialectics takes the general to the particular" />
+
+
+<p>I believe that the theory of mathematical categories (which was made explicit 50 years ago by Eilenberg and Mac Lane, codifying extensive work done by Hurewicz in particular during the 1930’s), can serve as such an instrument. It was introduced and designed in response to a very particular question involving passage to the limit in calculating cohomology of certain portions of spheres, but this particular calculation necessitated an explicit recognition of the manner in which these spaces were related to all other spaces and, in particular, how their motion might indduce other motions. In other words, category theory was introduced (and still serves) as a “universal geometrical calculus”.</p>
+</blockquote>
+
+</div>
+
+#+END_HTML
+
 #+BEGIN_HTML
 <br />
 <br />
