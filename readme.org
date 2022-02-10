@@ -370,7 +370,7 @@ This is a lesser known introduction to Category Theory. But from the people who 
 #+END_HTML
 
 ** [[https://arxiv.org/abs/1102.1313][Introduction to Categories and Categorical Logic]]
-*Samson Abramsky and Nikos Tzevelekos (2011)*, 1010 pages
+*Samson Abramsky and Nikos Tzevelekos (2011)*, 101 pages
 
 
 #+BEGIN_HTML
