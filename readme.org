@@ -177,7 +177,7 @@ In the orientation section of [[https://raw.githubusercontent.com/mattearnshaw/l
 Grassman in his philosophical introduction describes the two-fold division of formal sciences, that is, the science of thinking, into dialectics and matheamtics. He briefly ddescribes dialectics as seeking the unity in all things, and he describes mathematics as the art and practice of taking each thought in its particularity and pursuing it to the end. There is a need for an instrument which will guide students to follow in a unified way both of these activities, passing from the general to the particular and from the particular to the general.
 </p>
 
-<img src="./mathematics-dialectics.png" alt="Image showing how mathematics takes the particular to the general and dialectics takes the general to the particular" />
+<img src="./img/mathematics-dialectics.png" alt="Image showing how mathematics takes the particular to the general and dialectics takes the general to the particular" />
 
 
 <p>I believe that the theory of mathematical categories (which was made explicit 50 years ago by Eilenberg and Mac Lane, codifying extensive work done by Hurewicz in particular during the 1930’s), can serve as such an instrument. It was introduced and designed in response to a very particular question involving passage to the limit in calculating cohomology of certain portions of spheres, but this particular calculation necessitated an explicit recognition of the manner in which these spaces were related to all other spaces and, in particular, how their motion might indduce other motions. In other words, category theory was introduced (and still serves) as a “universal geometrical calculus”.</p>
