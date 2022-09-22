@@ -260,6 +260,13 @@ TODO: Document how Category Theory becomes an apt setting to study processes. Mi
 * Books
 
 #+BEGIN_HTML
+<img width="150px" align="left" src="./img/joy-abstraction-exploration-category-theory.jpg" />
+#+END_HTML
+
+** [[https://www.amazon.com/Joy-Abstraction-Exploration-Category-Theory/dp/1108477224][The Joy of Abstraction: An Exploration of Math, Category Theory, and Life]]
+*Eugenia Cheng 
+
+#+BEGIN_HTML
 <img width="150px" align="left" src="./img/seven-sketches-in-compositionality.jpg" />
 #+END_HTML
 
