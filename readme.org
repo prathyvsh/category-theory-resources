@@ -131,7 +131,7 @@ This book by Charles Pinter reads not like a textbook but like a description of 
 <img align="left" height="300px" src="./img/a-concrete-approach-to-abstract-algebra.png" />  
 #+END_HTML
 
-** [[https://archive.org/details/AConcreteApproachToAbstractAlgebra][A Concrete Approach to Abstract Algebra]]
+** [[https://amzn.to/40jE0TY][A Concrete Approach to Abstract Algebra]]
 *W. W. Sawyer*
 
 A narrative approach for Abstract Algebra is given by Sawyer by focussing on concrete applications.
@@ -141,7 +141,7 @@ A narrative approach for Abstract Algebra is given by Sawyer by focussing on con
 <img align="left" height="300px" src="./img/visual-group-theory.jpg" />  
 #+END_HTML
 
-** Visual Group Theory
+** [[https://amzn.to/3XSMcJw][Visual Group Theory]]
 *Nathan Carter*
 
 Visual Group Theory by Nathan Carter gives an overview of the field by relying on visualizations. His playground for the cayley diagram explorations gives a good idea of the quality of work that has gone into producing this book.
